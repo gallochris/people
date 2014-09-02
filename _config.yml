@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            You can see a lot just by listening
+url:              http://people.hotdogsandeggs.com
+paginate:         100
+author:
+  name:           Chris Gallo
+  url:            https://twitter.com/cjgallo
+
+# RSS vars
+name: People - Talks with Draft
+description: You can see a lot just by listening. 
+url: http://people.hotdogsandeggs.com

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+---
+ 
+ <div class="rasheedwallace" style="padding: 1em">
+  <h3><a href="http://people.hotdogsandeggs.com/list">View the Archives</a></h3>
+  </div>
+ 
+ 
+ {% for post in paginator.posts %}
+     <div class="rasheedwallace">
+     <a href ="{{ post.url }}" class="titles">{{ post.title }}</a>
+                     <p class="spoke">{{ post.preview }}</p>
+                   <h2><a href="{{ post.url }}">{{ post.link }}</a></h2>
+                               </div>
+       <hr>
+   {% endfor %}
+  
+  
+  
+
