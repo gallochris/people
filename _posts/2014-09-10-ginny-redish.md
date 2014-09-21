@@ -5,7 +5,7 @@ preview: It isn't only about what I have to say, it's about hearing the other pe
 link: Write Like a Human  
 ---
 
-*Ginny Redish is the author of [Letting Go of the Words: Writing Web Content that Works](http://www.amazon.com/Letting-Go-Words-Interactive-Technologies/dp/0123694868). She is a pioneer in how to communicate on the web. Ginny has helped companies like IBM communicate with customers and teaches people why content is conversation.*
+*Ginny Redish is the author of [Letting Go of the Words: Writing Web Content that Works](http://www.amazon.com/Letting-Words-Second-Edition-Technologies/dp/0123859301/ref=dp_ob_title_bk). She is a pioneer in how to communicate on the web. Ginny has helped companies like IBM communicate with customers and teaches people why content is conversation.*
 
 *Check out the [full conversation](http://5by5.tv/contenttalks/12) with her and [Kristina Halvorson](https://twitter.com/halvorson) on the [Content Talks](http://5by5.tv/contenttalks) podcast. And find a short excerpt below.* 
 
