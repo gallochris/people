@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Samuel Hulick
-preview: I like to think of it more as we're creating musical instruments, which let other people create the compositions they want even better. 
+preview: Onboarding is getting people from point A to point B in their lives. 
 link: User Onboarding    
 ---
 
-*This is conversation between [Samuel Hulick](https://twitter.com/SamuelHulick) and [Justin Jackson](https://twitter.com/mijustin) on [Product People TV](http://productpeople.tv/). Samuel shares how he built [User Onboarding](http://www.useronboard.com/) and what he's learned along the way. Lots of useful examples of how to treat customers like human beings. Check out the full [conversation here](http://productpeople.tv/2014/11/06/ep70-samuel/)
+*This is conversation between [Samuel Hulick](https://twitter.com/SamuelHulick) and [Justin Jackson](https://twitter.com/mijustin) on [Product People TV](http://productpeople.tv/). Samuel shares how he built [User Onboarding](http://www.useronboard.com/) and what he's learned along the way. Lots of useful examples of how to treat customers like human beings. Check out the full [conversation here](http://productpeople.tv/2014/11/06/ep70-samuel/).*
 
 ##How Did You Start User Onboarding 
 
@@ -105,4 +105,4 @@ Almost admonishing you for not having projects yet. Like I just filled out three
 
 Certainly it's not something you would say if you were standing in the websites place welcoming a new customer to your company. 
 
-**That's true.**
+*That's true.*
