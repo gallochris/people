@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            You can see a lot just by listening
 url:              http://people.hotdogsandeggs.com
-paginate:         100
+paginate:         1
 author:
   name:           Chris Gallo
   url:            https://twitter.com/cjgallo
