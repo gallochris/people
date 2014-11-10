@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samuel Hulick
-preview: Onboarding is getting people from point A to point B in their lives. 
+preview: It's about what your product lets people do.  
 link: User Onboarding    
 ---
 
@@ -104,5 +104,4 @@ And it would say, "you have no projects."
 Almost admonishing you for not having projects yet. Like I just filled out three forms, I gave you my email address and password, and I'm being scolded. This is not kicking off on the right foot. 
 
 Certainly it's not something you would say if you were standing in the websites place welcoming a new customer to your company. 
-
 *That's true.*
