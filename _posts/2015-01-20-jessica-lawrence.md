@@ -4,9 +4,11 @@ title: Jessica Lawrence
 preview: Being able to pause is essential for creating the space needed in leadership.  
 link: Pause & Listen 
 ---
-Jessica Lawrence shares a story about leadership. From high school to the Girl Scouts of the USA to NY Tech Meetup, Jessica connects the dots about what is needed to be a leader. I was directed to this video by [Jeff Vincent](https://twitter.com/jeffvincent). Check out his newsletter and subscribe [here](http://eepurl.com/UpDZz). 
+*Jessica Lawrence shares a story about leadership. From high school to the Girl Scouts of the USA to NY Tech Meetup, Jessica connects the dots about what is needed to be a leader. I was directed to this video by [Jeff Vincent](https://twitter.com/jeffvincent). Check out his newsletter and subscribe [here](http://eepurl.com/UpDZz). 
 
-And take 10 minutes to listen to [Jessica's story](http://poptech.org/popcasts/jessica_lawrence_on_leading). 
+And take 10 minutes to listen to [Jessica's story](http://poptech.org/popcasts/jessica_lawrence_on_leading).*
+
+* * * 
 
 ##Doing What You Think is Right 
 
@@ -64,7 +66,7 @@ I still had a lot to learn about leadership and change.
 
 ##Trust
 
-And starting my career in a 100 year-old organization would turn out to be the perfect classroom. 
+And starting my career in a 100-year-old organization would turn out to be the perfect classroom. 
 
 I started out as a fundraising associate at a Girl Scout counsel in Southern California. And I quickly learned though Girl Scouts have an amazing mission and do great stuff for girls, the organization was struggling with bureaucracy and hierarchy. And a lot of rules that did more harm than good. 
 
@@ -134,7 +136,7 @@ Space for agency and potential to flourish.
 
 Space to learn as I did from the people working alongside you asking you tough questions. 
 
-If I could go back to re-visit my 17 year-old self, I would stand next to her and give her hand a squeeze. 
+If I could go back to re-visit my 17-year-old self, I would stand next to her and give her hand a squeeze. 
 
 I would tell her to slow down a little. I would tell her to listen. 
 
@@ -146,11 +148,4 @@ Because having something that you are willing to take action on is essential. Ev
 
 *Thank you for reminding us of that, Jessica.*
 
-
-
-
-
-
-
-
-
+* * * 
