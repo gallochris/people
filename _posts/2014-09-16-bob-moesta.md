@@ -41,7 +41,7 @@ Jobs is very much tied around causal, I want this and it causes that.
 
 What you find is it might be a little hyper-rational. But the fact is when you get to the job and the essence of the job, now you can take new technology and say how they compete with each other. 
 
-A good example is Facebook. What Facebook is doing and why people are hiring it, there is a lot of different jobs that it does. To be clear, I'm only going to talk about one of them. 
+A good example is Facebook. What Facebook is doing and why people are hiring it, there are a lot of different jobs that it does. To be clear, I'm only going to talk about one of them. 
 
 It actually has replaced the Sunday night phone call. I'm 46 years old. What you would do, is Sunday, you would always call home and find out what was going on at home and you'd tell them what was going on in your life. It was a way of which to connect and see what was going on.  
 
