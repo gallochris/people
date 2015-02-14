@@ -32,7 +32,7 @@ h3 {
   font-weight: lighter;
   text-transform: uppercase;
   color: #000;
-    text-align: center;
+  text-align: center;
   
 }
 
@@ -52,7 +52,7 @@ a {
     letter-spacing:2px;
     color: inherit;
     text-decoration:none;
-    font-weight: inherit;
+    font-weight: lighter;
     border-bottom:2px solid #56a0d3;
 }
 
@@ -81,7 +81,7 @@ hr {
     padding:5em;
     margin-left:auto;
     margin-right:auto;
-    overflow:hidden
+    overflow:hidden;
 }
 
 @media min-width: 600px {
