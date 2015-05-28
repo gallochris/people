@@ -1,22 +1,28 @@
 ---
+title: "People | Chris Gallo"
 layout: default
-title: Home | People at Hot Dogs and Eggs
 ---
- 
- <div class="rasheedwallace" style="padding: 1em">
-  <h3><a href="http://people.hotdogsandeggs.com/list">View the Archives</a></h3>
-  </div>
- 
- 
- {% for post in paginator.posts %}
-     <div class="rasheedwallace">
-     <a href ="{{ post.url }}" class="titles">{{ post.title }}</a>
-                     <p class="spoke">{{ post.preview }}</p>
-                   <h2><a href="{{ post.url }}">{{ post.link }}</a></h2>
-                               </div>
-       <hr>
-   {% endfor %}
-  
-  
-  
+<div class="row">
+<div class="content">
+  <div class="eight columns offset by-two">
+  <h1 style="text-align: center">You can see a lot just by listening.</h1>
+  <p class="blog-text">Transcribed advice from real people</p>. 
+  <hr>
+{% for post in site.posts %}
 
+  <ul style="list-style: none;">
+   <li>
+    <a href="{{ post.url }}">
+      <div>
+        <span class="people-title">{{ post.title }}</span>
+        <span class="date">{{ post.link }}</span>
+      </div>
+    </a>
+  </li>
+  <hr>
+  </ul>
+     {% endfor %}
+      </div>
+</div>
+</div>
+</div>
