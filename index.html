@@ -1,27 +1,28 @@
 ---
+title: "People | Chris Gallo"
 layout: default
-title: People | Chris Gallo
 ---
- 
- 
- {% for post in paginator.posts %}
-     <div class="rasheedwallace">
-     <a href ="{{ post.url }}" class="titles">{{ post.title }}</a>
-                     <p class="spoke">{{ post.preview }}</p>
-                   <h2><a href="{{ post.url }}">{{ post.link }}</a></h2>
-                    {% endfor %}
-                               </div>
-                               <hr>
-       <div class="rasheedwallace words">
-       <h2>More People Worth Listening To</h2>
+<div class="row">
+<div class="content">
+  <div class="eight columns offset by-two">
+  <h1 style="text-align: center">You can see a lot just by listening.</h1>
+  <p class="blog-text">Transcribed advice from real people</p>. 
+  <hr>
 {% for post in site.posts %}
+
   <ul style="list-style: none;">
-  <li><a href="{{ post.url }}">{{ post.title }} - {{ post.link}}</a> </li>
+   <li>
+    <a href="{{ post.url }}">
+      <div>
+        <span class="people-title">{{ post.title }}</span>
+        <span class="date">{{ post.link }}</span>
+      </div>
+    </a>
+  </li>
+  <hr>
   </ul>
      {% endfor %}
-
-
       </div>
-  
-  
-
+</div>
+</div>
+</div>

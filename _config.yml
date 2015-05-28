@@ -1,20 +1,21 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-base url:         /
+# ==========================
+# == Jekyll Configuration ==
+# ==========================
+markdown: rdiscount
+permalink: :title
 
-# Permalinks
-permalink:        pretty
+# ==========================
+# == Custom Configuration ==
+# ==========================
 
-# Setup
-title:            You can see a lot just by listening
-url:              http://people.hotdogsandeggs.com
-paginate:         1
-author:
-  name:           Chris Gallo
-  url:            https://twitter.com/cjgallo
-
-# RSS vars
-name: People - Talks with Draft
-description: You can see a lot just by listening. 
-url: http://people.hotdogsandeggs.com
+title: People | Hot Dogs and Eggs
+subtitle: "The website of Chris Gallo."
+url: http://hotdogsandeggs.com/
+description: "You can see a lot just by listening. Transcribed advice from real people."
+navigation:
+ - title: About
+   url: http://hotdogsandeggs.com/about/
+ - title: Blog
+   url: http://blog.hotdogsandeggs.com/
+ - title: Say hi
+   url: /about/#contact

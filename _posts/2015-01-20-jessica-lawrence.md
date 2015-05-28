@@ -3,6 +3,7 @@ layout: post
 title: Jessica Lawrence 
 preview: Being able to pause is essential for creating the space needed in leadership.  
 link: Pause & Listen 
+slug: jessica-lawrence
 ---
 *Jessica Lawrence shares a story about leadership. From high school to the Girl Scouts of the USA to NY Tech Meetup, Jessica connects the dots about what is needed to be a leader. I was directed to this video by [Jeff Vincent](https://twitter.com/jeffvincent). Check out his newsletter and subscribe [here](http://eepurl.com/UpDZz).*
 
@@ -147,5 +148,3 @@ I would tell her to have courage and patience to stay in that gap. And I would t
 Because having something that you are willing to take action on is essential. Even if, you eventually realize that sometimes the best thing to do is pause and listen. 
 
 *Thank you for reminding us of that, Jessica.*
-
-* * * 

@@ -346,4 +346,4 @@ You walk through the hall ways of his car wash and see pictures of employees and
 
 It's just amazing to watch him do things. A lot of these don't relate to the Internet and what we're doing. But certainly it was a unique way to grow up and a unique way to look at business. 
 
-*Thank you, Allan. And thanks to [Benjamin Alijagić] (https://www.youtube.com/channel/UCdeN261dz3ZTH254vhyZAIw) for hosting the videos.* 
+*Thank you, Allan. And thanks to [Benjamin Alijagić](https://www.youtube.com/channel/UCdeN261dz3ZTH254vhyZAIw) for hosting the videos.* 
