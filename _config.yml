@@ -14,7 +14,7 @@ url: http://hotdogsandeggs.com/
 description: "You can see a lot just by listening. Transcribed advice from real people."
 navigation:
  - title: About
-   url: /about/
+   url: http://hotdogsandeggs.com/about/
  - title: Blog
    url: http://blog.hotdogsandeggs.com/
  - title: Say hi

@@ -148,5 +148,3 @@ I would tell her to have courage and patience to stay in that gap. And I would t
 Because having something that you are willing to take action on is essential. Even if, you eventually realize that sometimes the best thing to do is pause and listen. 
 
 *Thank you for reminding us of that, Jessica.*
-
-* * * 
