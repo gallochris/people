@@ -11,6 +11,7 @@ slug: merlin-mann
 
 ## Better is elusive: [3:20](https://youtu.be/zR6e-mnvhv8?t=3m20s)
 
+
 I find it very hard to get better at things. I find it very difficult to do. I think a lot of people struggle with it for a long time. 
 
 How do you get better at doing a thing? 
@@ -24,6 +25,7 @@ How do you avoid becoming the world's greatest master of something nobody really
 * * * 
 
 ## 5 Stages of Getting Better: [24:22](https://youtu.be/zR6e-mnvhv8?t=24m22s)
+
 
 [Dreyfus model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
 1. Novice 
@@ -51,6 +53,7 @@ Isn't that a funny thing about expertise?
 
 ## Novice: [29:20](https://youtu.be/zR6e-mnvhv8?t=29m20s)
  
+
 What is a novice? A novice is the new person on the job. They could conceivably follow the rules, but they're screwing up so often that they're not really following them. 
 
 At best, once you've crossed novice, you can boil water. You can follow the directions to boil water and not set yourself on fire. 
@@ -74,6 +77,7 @@ You have a little bit of beginner's mind. You're open to new stuff.
 * * * 
 
 ## Advanced Beginner: [30:35](https://youtu.be/zR6e-mnvhv8?t=30m35s) 
+
 
 The advanced beginner is in the unique situation of having virtually no idea how little they know about something, but has every reason to believe they might be an unrecognized genius. 
 
@@ -123,6 +127,7 @@ That's why I love the expert. Even the expert has blind spots that they can't te
 
 ## Panic: [39:00](https://youtu.be/zR6e-mnvhv8?t=39m)
 
+
 Sometimes the more you dig in on the thing you think you really understand, the more you're shutting yourself off from the stuff in the world that you could be getting better at or that you should be getting better at next. 
 
 What should you be getting better at? And how do you know? 
@@ -137,6 +142,7 @@ Isn't it kind of interesting how that happened?
 
 ## Humility: [43:25](https://youtu.be/zR6e-mnvhv8?t=43m25s)
 
+
 Humility is when you go, "you know what? Maybe I'm not the greatest at everything because partly I don't know what everything is yet." 
 
 When I was a kid, I was super into Ozzie Osborne. When they were on tour before his tragic death, not only was he one of the most shredding guitar players ever, but the story goes that Randy Rhoads would ahead of time pre-arrange classical guitar lessons in any town that he could along the way of the tour. 
@@ -148,6 +154,7 @@ His attitude was I want to get better at guitar every day if I can. What a huge 
 * * * 
 
 ## Curiosity: [44:36](https://youtu.be/zR6e-mnvhv8?t=44m36s)
+
 
 I don't have a single way in the world to tell you guys to how to be more curious or what to be curious about. Except to say, I think you can do it. 
 
@@ -170,6 +177,7 @@ I'm talking about people who are curious about stuff for it's own sake. I'm talk
 * * * 
 
 ## Advanced Tricycling: [49:25](https://youtu.be/zR6e-mnvhv8?t=49m25s)
+
 
 We got our kid a three-wheel scooter years ago. The beauty part of a three-wheel scooter is you kind of can't hurt yourself that bad on this thing. You get the pads. You get the helmet. 
 
@@ -246,10 +254,11 @@ And then an improbable thing happened last week. Now she's trying with the train
 My role in this? Getting out of the way and not giving advice. 
 
 My thesis is: 
-*It's hard to know
-what you'll need to know
-in order to know
-what you'll need to know.*
+
+> It's hard to know
+> what you'll need to know
+> in order to know
+> what you'll need to know.
 
 No one can tell you how to ride a bike. You're just going to have to figure out that bikes are cool, you fall down a lot for awhile, and then you get to ride wherever you want. 
 
@@ -261,17 +270,18 @@ Sometimes you've got to get out of the way. But you still need that curiosity.
 
 ## One more thing: [54:52](https://youtu.be/zR6e-mnvhv8?t=54m52s)
 
+
 Don't be afraid to repot yourself. Somebody is going to repot you. Days will come along and something stupid is going to happen. Someone will die, a building will blow up, insurance didn't work out. Stuff is going to change. And it's going to get dumb. 
 
 And you're going to have to repot yourself. It's not a question of if. It's a question of when. And it's a question of how ok it's going to be when you land. 
 
 And that's why I say: 
-*It's hard to know
-what you'll need to know
-in order to know
-what you'll need to know. 
 
-It pays to stay curious.* 
+> It's hard to know*
+> what you'll need to know*
+> in order to know
+> what you'll need to know. 
+> It pays to stay curious.
 
 Even especially in the things you don't know you're curious about yet. 
 
