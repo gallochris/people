@@ -28,6 +28,7 @@ How do you avoid becoming the world's greatest master of something nobody really
 
 
 [Dreyfus model](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+
 1. Novice 
 2. Advanced beginner 
 3. Competent 
