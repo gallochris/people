@@ -256,8 +256,11 @@ My role in this? Getting out of the way and not giving advice.
 My thesis is: 
 
 > It's hard to know
+
 > what you'll need to know
+
 > in order to know
+
 > what you'll need to know.
 
 No one can tell you how to ride a bike. You're just going to have to figure out that bikes are cool, you fall down a lot for awhile, and then you get to ride wherever you want. 
@@ -277,10 +280,14 @@ And you're going to have to repot yourself. It's not a question of if. It's a qu
 
 And that's why I say: 
 
-> It's hard to know*
-> what you'll need to know*
+> It's hard to know
+
+> what you'll need to know
+
 > in order to know
+
 > what you'll need to know. 
+
 > It pays to stay curious.
 
 Even especially in the things you don't know you're curious about yet. 
