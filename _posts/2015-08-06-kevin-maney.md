@@ -49,7 +49,7 @@ That figures into this idea of fidelity. The total experience, the aura, the ide
 
 * * * 
 
-[Convenient](3:31](https://youtu.be/VeKy0YihRZY?t=3m33s)
+Convenient [3:31](https://youtu.be/VeKy0YihRZY?t=3m33s)
 
 The other word here is convenient. Again, a couple things we're not talking about with convenience. 
 
