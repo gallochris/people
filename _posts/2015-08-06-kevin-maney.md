@@ -34,7 +34,7 @@ Fidelity is not this idea of you and your spouse sticking together for 90 years 
 
 I want you to think of it, use this word with a bit of a broader meaning. 
 
-**Fidelity is the total experience of something.**
+*Fidelity is the total experience of something.*
 
 So part of that is quality, the quality of a product or service. It's also something more, the way a product makes you feel or giving you some sense of identity about yourself.  
 
@@ -56,7 +56,7 @@ The other word here is convenient. Again, a couple things we're not talking abou
 
 It's not your local 7-Eleven. And not necessarily the TV dinners you can make easily. 
 
-**Convenience is just this whole idea of how easy it is to get what you want.**
+*Convenience is just this whole idea of how easy it is to get what you want.*
 
 Part of that is ease of use. Part of that is ubiquity, how available is something. 
 
@@ -100,9 +100,9 @@ It falls in this so-so zone where it gets a lot of consumer apathy. That's why c
 
 There is this other part, which is the equivalent of having U2 play in your living room. Which I guess if your the president you can do, but it's probably not a great business model for U2. And probably not a convenient model for most of us.  
 
-The [model looks like this](http://3.bp.blogspot.com/-XUl57hwM2zo/T1I2l6lxKyI/AAAAAAAAAUc/a3trqKpQIMw/s1600/Fidelity+Belly+(Cropped).png?__SQUARESPACE_CACHEVERSION=1337125202104), and there is this spot in the middle, where products are neither enough fidelity or enough convenience to really get people excited. 
+The [model looks like this](http://3.bp.blogspot.com/-XUl57hwM2zo/T1I2l6lxKyI/AAAAAAAAAUc/a3trqKpQIMw/s1600/Fidelity+Belly+(Cropped), and there is this spot in the middle, where products are neither enough fidelity or enough convenience to really get people excited. 
 
-I call this area the **Fidelity Belly.** 
+I call this area the *Fidelity Belly.*
 
 And then there is one other aspect of the chart, which is actually quite important. I put these two arrows at either end because I realize that technology constantly allows the borders of this whole model to change or move outward. 
 
@@ -182,7 +182,7 @@ Every electric car that came out was neither convenient or fidelity, neither lov
 
 The insight that Tesla people had about electric cars was that you had to break out of that one way or the other. So why not break out of it? 
 
-**Instead of making an electric sports car, make the best sports car.**
+*Instead of making an electric sports car, make the best sports car.*
 
 Give people a reason to love and want this particular product. So they built the [Tesla Roadster](https://en.wikipedia.org/wiki/Tesla_Roadster), it's going to cost $100,000. But it's a kick-ass sports car. 
 
@@ -226,7 +226,7 @@ Starbucks had completely blown up this idea of creating an experience, of a plac
 
 It started to dilute that brand until Starbucks became not so cool anymore. If you really wanted to be cool, you went to Caribou Coffee or some little independent shop. 
 
-I ended up calling this space the **Fidelity Mirage.** 
+I ended up calling this space the *Fidelity Mirage.* 
 
 It's a place you can't get to. If you try to drive for that spot of super fidelity and super convenience, the tensions between the two pull at each other until the whole thing falls apart. 
 
