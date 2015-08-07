@@ -76,6 +76,8 @@ And you're often willing to do something that is convenient, even though the fid
 
 So if you plot these two things on an axis like this, kind of representing the trade you're willing to make - one easy way to explain this is the music industry. 
 
+![trade-off-chart.png](https://draftin.com:443/images/31427?token=fPlgjJqjLw6WHjeBeqTm-MRVPQdaOD5-iNRb4NMyIgg-199EVyrHNGevvo1-HTCLD615BF0C916rUF2qhdpG5MA) 
+
 There are two parts of the music industry that are doing really well. 
 
 One part is the super high end concerts that cost a lot of money. Think of a U2 concert, it's the whole experience of the band being there and seeing them live. The crowd around you and the ability to tell your friends later that you went to this U2 concert, it was all part of your identity. 
