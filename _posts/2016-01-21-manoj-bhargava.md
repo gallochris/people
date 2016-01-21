@@ -2,7 +2,7 @@
 layout: post
 title: Manoj Bhargava
 preview: Business is really not rocket science. It's just do useful stuff. And avoid useless. 
- link: Common Sense
+link: Common Sense
 slug: manoj-bhargava
 ---
 
