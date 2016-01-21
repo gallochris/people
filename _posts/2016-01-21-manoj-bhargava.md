@@ -6,7 +6,7 @@ link: Common Sense
 slug: manoj-bhargava
 ---
 
-*Take a half-hour and listen to this talk from Manoj Bhargava. Manoj is founder of 5-Hour Energy, a philanthropist, and full of wisdom. The story behind the product is fascinating and Manoj's common sense will smack your right across the face.*
+*Take a half-hour and listen to [this talk](https://www.youtube.com/watch?v=x46-XiMOoJE) from [Manoj Bhargava](https://twitter.com/Manoj_Bhargava). Manoj is founder of 5-Hour Energy, a philanthropist, and full of wisdom. The story behind the product is fascinating and Manoj's common sense will smack your right across the face.*
 
 *Thanks to Ryan Singer (@rjs) for sharing a [link](https://twitter.com/rjs/status/660153222984781825) to the talk months ago. Watch and listen [here](https://www.youtube.com/watch?v=x46-XiMOoJE).* 
 
