@@ -102,7 +102,7 @@ It falls in this so-so zone where it gets a lot of consumer apathy. That's why c
 
 There is this other part, which is the equivalent of having U2 play in your living room. Which I guess if your the president you can do, but it's probably not a great business model for U2. And probably not a convenient model for most of us.  
 
-The [model looks like this](http://3.bp.blogspot.com/-XUl57hwM2zo/T1I2l6lxKyI/AAAAAAAAAUc/a3trqKpQIMw/s1600/Fidelity+Belly+(Cropped), and there is this spot in the middle, where products are neither enough fidelity or enough convenience to really get people excited. 
+The [model looks like this](http://3.bp.blogspot.com/-XUl57hwM2zo/T1I2l6lxKyI/AAAAAAAAAUc/a3trqKpQIMw/s1600/Fidelity+Belly+(Cropped)), and there is this spot in the middle, where products are neither enough fidelity or enough convenience to really get people excited. 
 
 I call this area the *Fidelity Belly.*
 
