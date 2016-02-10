@@ -72,7 +72,7 @@ And in our case, it would of sort of become the thing we built Perch to get away
 
 * * * 
 
-## Can't Please everyone [18:57](https://youtu.be/Z1NpuKnuDyA?t=18m57s) 
+## Can't Please Everyone [18:57](https://youtu.be/Z1NpuKnuDyA?t=18m57s) 
 
 However hard you try to meet the needs of people and however hard you try to give people what they want, there is always going to be someone accusing you of not listening because you haven't already added their very specific feature request. 
 
@@ -94,7 +94,7 @@ It's really easy to think everyone is asking for this one thing, so we should de
 
 * * * 
 
-## Differences in people [25:21](https://youtu.be/Z1NpuKnuDyA?t=25m21s)
+## Differences in People [25:21](https://youtu.be/Z1NpuKnuDyA?t=25m21s)
 
 Sometimes a difficult customer is just a customer that has a different way of interacting or perhaps is using English as a second language. 
 
@@ -184,7 +184,7 @@ If it's something in Perch, I'm going to need their template or the things that 
 
 * * * 
 
-## What did you expect? [38:51](https://youtu.be/Z1NpuKnuDyA?t=38m51s) 
+## What Did You Expect? [38:51](https://youtu.be/Z1NpuKnuDyA?t=38m51s) 
 
 Something that is really important for us to know is what did you expect to happen. 
 
@@ -200,7 +200,7 @@ If we know what they expected to happen, we can kind of guide them to what they 
 
 * * * 
 
-## What good support is about [42:25](https://youtu.be/Z1NpuKnuDyA?t=42m25s) 
+## Good Support [42:25](https://youtu.be/Z1NpuKnuDyA?t=42m25s) 
 
 Ultimately, good support gets you back to your project as quickly as possible. 
 
