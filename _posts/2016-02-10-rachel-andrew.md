@@ -200,7 +200,7 @@ If we know what they expected to happen, we can kind of guide them to what they 
 
 * * * 
 
-## <a name="good-support">&nbsp;</a> Good Support [42:25](https://youtu.be/Z1NpuKnuDyA?t=42m25s) 
+## Good Support [42:25](https://youtu.be/Z1NpuKnuDyA?t=42m25s) 
 
 Ultimately, good support gets you back to your project as quickly as possible. 
 
