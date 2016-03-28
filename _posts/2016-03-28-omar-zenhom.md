@@ -145,7 +145,7 @@ Because as I've went through this exercise, I think they'd be a good fit. That i
 
 * * * 
 
-![six-thinking-hats](http://cl.ly/2M3W3P39091x/download/Image%202016-03-28%20at%2012.57.39%20PM.png)
+![six-thinking-hats](http://f.cl.ly/items/2n182D463u3W0i2Y2o3D/Image%202016-03-28%20at%201.30.07%20PM.png)
 
 *Thanks, Omar and Edward.*
 
