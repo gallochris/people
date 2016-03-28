@@ -145,8 +145,7 @@ Because as I've went through this exercise, I think they'd be a good fit. That i
 
 * * * 
 
-<p data-height="268" data-theme-id="0" data-slug-hash="wGeNQx" data-default-tab="result" data-user="cjgallo" class="codepen">See the Pen <a href="http://codepen.io/cjgallo/pen/wGeNQx/">wGeNQx</a> by Chris Gallo (<a href="http://codepen.io/cjgallo">@cjgallo</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+![six-thinking-hats](http://cl.ly/2M3W3P39091x/download/Image%202016-03-28%20at%2012.57.39%20PM.png)
 
 *Thanks, Omar and Edward.*
 
