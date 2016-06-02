@@ -14,6 +14,7 @@ slug: kevin-maney
 - *[Part 2](https://www.youtube.com/watch?v=NxpjyxtFuPQ)*
 
 * * * 
+
 ## What is Trade off? [00:14](https://youtu.be/VeKy0YihRZY)
 
 What I've done with this book is essentially try to create a lens for looking at the way things work. It's kind of like the tipping point or innovators dilemma. 
