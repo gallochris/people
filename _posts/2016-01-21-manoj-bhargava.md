@@ -133,7 +133,7 @@ If you have a business, it's about a customer. The same way you go out to a fiel
 
 ## How we work in our company [17:21](https://youtu.be/x46-XiMOoJE?t=17m15s)
 
-We don't have MBA speak. If someone comes to me with an a project or something that needs to be done, the first question I'll ask is, "Is is useful? How is it useful?"
+We don't have MBA speak. If someone comes to me with an a project or something that needs to be done, the first question I'll ask is, "Is this useful? How is it useful?"
 
 And if it's not useful, it better be entertaining. 
 
