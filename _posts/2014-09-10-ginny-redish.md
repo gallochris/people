@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ginny Redish 
-preview: It isn't only about what I have to say, it's about hearing the other person in your head as you're writing.
+preview: It's about hearing the other person in your head as you're writing. 
 link: Write Like a Human  
 ---
 

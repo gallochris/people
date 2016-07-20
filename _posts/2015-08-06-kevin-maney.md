@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kevin Maney
-preview: We're constantly going through these trade-offs in our life between the quality of the experience and the ease of getting it.  
+preview: We're going throug trade-offs between the quality of the experience and the ease of getting it. 
 link: Trade-Off
 slug: kevin-maney
 ---

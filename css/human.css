@@ -266,7 +266,8 @@ a {
 }
 
 a:active {
-    color:#404040
+    color:#404040;
+
 }
 
 img {
@@ -530,7 +531,7 @@ a.about-me {
 }
 
 .default .content a {
-    text-decoration:underline
+    text-decoration:underline;
 }
 
 .default .navigation a {
@@ -547,9 +548,8 @@ html {
 nav a {
     font-size:18px;
     margin:0 1.5em;
-    color: inherit;
+    color: #56a0d3;
     text-decoration:none;
-    border-bottom:2px solid #56a0d3;
 }
 
 nav a.active {

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merlin Mann
-preview: It's hard to know, what you'll need to know, in order to know, what you'll need to know. It pays to stay curious. 
+preview: It's hard to know, what you'll need to know, in order to know, what you'll need to know
 link: It Pays to Stay Curious
 slug: merlin-mann
 ---

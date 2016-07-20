@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miki Agrawal
-preview: If you starting by leading with how can I help you versus how can you help me, watch how doors will open. 
+preview: If you starting by leading with how can I help you versus how can you help me, doors will open. 
 link: Do Cool Sh*t
 slug: miki-agrawal
 ---

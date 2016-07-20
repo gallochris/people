@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ashley Verrill
-preview: This new generation is so used to sharing everything. By default they assume that companies should return the favor.
+preview: The support homepage for customers today is Google
 link: Future of Customer Service   
 ---
 

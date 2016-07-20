@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stanley Hainsworth
-preview: That's what great companies do. They'll read your soul and give you something you don't even know you need. 
+preview: Great companies read your soul and give you something you don't even know you need.
 link: Brands are People   
 ---
 
