@@ -8,7 +8,7 @@ link: Learning the tools
 *This is a Creative Mornings talk with [Jessica Hische](http://jessicahische.is/awesome) in Vancouver. Hische delivers about a 10 minute rant sans slides that is amazing. The majority of the excerpt is in the beginning, but you hang on for a great conversation about type. Watch and listen to the [full video here](http://vimeo.com/44045435).* 
 
 
-##Mandatory
+## Mandatory
 
 Everyone knows as soon as you make something mandatory, it becomes the opposite of what you want to do for a living. 
 
@@ -20,7 +20,7 @@ It's fun to learn things that aren't helpful.
 
 * * * 
 
-##Learn the tools
+## Learn the tools
 
 You have to learn the tools to make awesome stuff. You don't not learn it just because it seems intimidating. 
 
@@ -44,7 +44,7 @@ Just grab the reigns and fucking do it.
 
 * * * 
 
-##College 
+## College 
 
 The desire to learn is really the only thing you should of picked up in college. Your college career or your diploma is not this definitive you have all the knowledge in the world, go out and make shit. 
 
@@ -54,7 +54,7 @@ That learning doesn't stop in college. You have to really take joy in learning t
 
 * * * 
 
-##Making things
+## Making things
 
 It's so liberating to be able to make anything you want to make. And it's not scary. And people try to make it into this super nerdy, scary thing. 
 

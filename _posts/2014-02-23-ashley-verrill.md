@@ -10,7 +10,7 @@ link: Future of Customer Service
 
 *Ashley is a managing editor at [Software Advice](http://www.softwareadvice.com/) where she runs [Customer Service Investigator](http://csi.softwareadvice.com/). Her work has been featured across [TechCrunch](http://techcrunch.com/2013/07/28/how-apple-gets-at-home-workers-to-work/), [Gigaom](https://gigaom.com/2013/05/26/how-can-we-provide-better-customer-service-create-software-that-lets-customers-serve-each-other/), and [Wired](http://insights.wired.com/profiles/blogs/how-to-find-the-best-social-app-for-your-business-in-60-seconds?xg_source=activity#axzz33o2kljRq). Listen to the [full podcast here](http://supportops.co/episode-28-investigating-customer-service-with-ashley-verrill/).* 
 
-##Why People Expect Transparency Today
+## Why People Expect Transparency Today
 
 I think it stems from a generational change. This new generation is so used to sharing everything. By default they assume that companies should return the favor. 
 
@@ -26,7 +26,7 @@ Because if you think about it - social media is just a means for really spreadin
 
 * * * 
 
-##On Proving on Video Support - [Amazon MayDay](http://www.amazon.com/gp/help/customer/display.html?nodeId=201349900)
+## On Proving on Video Support - [Amazon MayDay](http://www.amazon.com/gp/help/customer/display.html?nodeId=201349900)
 
 Surprisingly, it's not a new technology. There have been companies doing this for a long time. It's just receiving attention recently with Amazon taking this on. 
 
@@ -46,7 +46,7 @@ But when you're on a video screen, you have to give your undivided attention to 
 
 * * * 
 
-##Why Amazon is Using Video Support 
+## Why Amazon is Using Video Support 
 
 This isn't just about providing better support. This is one of the reasons Amazon is using it. You gave a really good example of your friend that wanted advice on what book to read - that's exactly what Amazon wants you to use it for. Because really the idea is that this channel will help them sell more. Or sell to you better. 
 
@@ -56,7 +56,7 @@ But putting this channel in the context of where it actually occurs and making i
 
 * * * 
 
-##Self Service Support
+## Self Service Support
 
 The support homepage for customers today is Google. Less and less they are navigating to your homepage. And then from there navigating to your support pages. Often, they just go ahead and type the question right into Google. 
 

@@ -7,7 +7,7 @@ link: How to Pitch
 
 *This is a conversation between Peter Coughter and Mitch Joel for the [Six Pixels of Separation Podcast](http://www.twistimage.com/podcast/). Coughter is the author of [The Art of the Pitch](http://www.amazon.com/The-Art-Pitch-Persuasion-Presentation/dp/0230120512), a professor at the VCU Brandcenter, and an advertising consultant. Check out an excerpt below, and listen to the [full talk here](http://www.twistimage.com/podcast/archives/spos-376---better-pitching-principles-with-peter-coughter/).* 
 
-##Nervous and Scared
+## Nervous and Scared
 
 Yesterday morning, I was in my car and I was listening to a sports talk show. And we can learn things from all kinds of different places by the way. 
 
@@ -25,7 +25,7 @@ The chemical changes that take place in the body when we're really excited or wh
 
 * * *
 
-##How not to present
+## How not to present
 
 This whole idea of what people think a presentation is (with big quotes around it) - is completely screwed up now. People lay the foundation of their own failure. Because they follow these conventions. 
 
@@ -43,7 +43,7 @@ It's the eye witness news collection of presenting. And the audience thinks what
 
 * * * 
 
-##How to get the Audience to like you
+## How to get the Audience to like you
 
 People seem to think if we tell the audience everything we know about a particular subject, the audience will like us. And they'll think we're smart. And neither of which is true.
 
@@ -51,7 +51,7 @@ If we actually give the hour and half presentation in a half  hour, and give a h
 
 * * * 
 
-##Telling Stories 
+## Telling Stories 
 
 That's how we learn. There is book that's been for hundreds of years. It's called the Bible. And all it is - stories. 
 
@@ -67,7 +67,7 @@ Forget all that other bullshit. Tell them your story.
 
 * * * 
 
-##Business Jargon
+## Business Jargon
 
 Let's not shoot ourselves in the foot by being so smart that we're dumb. It annoys me all the time. Business jargon. 
 

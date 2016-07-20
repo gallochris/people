@@ -7,7 +7,7 @@ link: Don't Complain, Build
 
 *The following is an excerpt from a 2-part series on mentor lessons with [Tina Roth Eisenberg](http://www.swiss-miss.com/about/hi-i-am-tina). Tina shares tips to success for Shopify's 2013 Build a Business Competition. Special thanks to [Shopify](http://www.shopify.com/) for hosting the video. Watch [part 1](https://www.youtube.com/watch?v=IrhktR0YfCw) and [part 2](https://www.youtube.com/watch?v=DKFsf0PyoTg).*
 
-##The Best Way to Complain 
+## The Best Way to Complain 
 
 Don't be a complainer, make things better. I have this personal rule that if I find myself complaining about this same thing over and over again, I need to either let it go or do something about it. 
 
@@ -23,7 +23,7 @@ That is really a lesson I want to teach my children.
 
 * * * 
 
-##Numbers
+## Numbers
 
 I really believe our society has come too dependent on numbers. Numbers are important, I don't disagree with that. But I do feel we need to be able to listen to our gut a little bit more. 
 
@@ -33,13 +33,13 @@ It's interesting to shift my daughter's mindset to what is my body telling me. I
 
 * * * 
 
-##Opportunity
+## Opportunity
 
 If the opportunity scares you, you need to take it. 
 
 * * * 
 
-##Surround yourself with like minded people
+## Surround yourself with like minded people
 
 If there is one thing I want to teach my children, it is that you need to surround yourself with like-minded people. Smart, kind, driven people. 
 
@@ -51,13 +51,13 @@ I'm convinced I wouldn't be where I am right now, if I wasn't surrounded by my S
 
 * * * 
 
-##Haters
+## Haters
 
 There are people that build things, and people that tear them down. Ignore haters. They get none of my time. 
 
 * * * 
 
-##Inspire
+## Inspire
 
 We owe it to the people around us to inspire others. Because when you're happy, when you're on the right track, when you're doing something that is fulfilling you - you are going to be inspiring other people. 
 

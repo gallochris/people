@@ -7,7 +7,7 @@ link: Driven by Freedom
 
 *This is a conversation between [Bob Baker](http://www.bob-baker.com/) and [Derek Sivers](http://sivers.org/) on [The Creative Entrepreneur podcast](https://itunes.apple.com/us/podcast/creative-entrepreneur-podcast/id721321813?mt=2). Derek shares his background from circus ringleader to musician to million-dollar business owner at CD Baby to creating a book publishing company. You can learn a lot from his perspective and his book [Anything You Want](http://sivers.org/a). Check out an excerpt below and watch or listen to the [full conversation here](https://www.youtube.com/watch?v=yB-lXs4dEOE).*
 
-##Changing Your Operating System 
+## Changing Your Operating System 
 
 I'm a total Chicago boy. Honestly, I didn't have any interest in the rest of the world, even just seven years ago. 
 
@@ -25,7 +25,7 @@ It's been a crazy five years, intentionally. Because like I said I kind of wante
 
 * * * 
 
-##3 Things that Were Responsible for Your Success 
+## 3 Things that Were Responsible for Your Success 
 
 Number one has to be being in a big city. When I look back, it's surprising how many of the great opportunities were because I was in the big city where everything was happening. 
 
@@ -51,7 +51,7 @@ You have to do everything around it. And meet everybody.
 
 * * * 
 
-##One Book that Changed Your Life
+## One Book that Changed Your Life
  
 [How to Win Friends and Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie. It's got one of the worst, slimiest titles ever.  The title is really a shame. Don't let the title of the book turn you off. I think it really should of been called - *How to be Considerate.* 
 
@@ -67,7 +67,7 @@ It's learning to think of things from the other person's point of view. How to W
 
 * * * 
 
-##Motivation 
+## Motivation 
 
 I have to say something that's not just for me, but for everyone. I think we all have different reasons why we do things. 
 
@@ -101,7 +101,7 @@ And so is being rich or giving or whatever. All of these things - don't worry, s
 
 * * * 
 
-##What drives you? 
+## What drives you? 
 
 I'm driven by experimentation. Two things. And it's safe to have two things, cause sometimes it's really the equal. You can't choose one or the other. It's the combination. 
 

@@ -23,7 +23,7 @@ They've consistently showed me these messages. And here's what I've learned.
 
 * * * 
 
-##Be Extraordinary and Work Your Ass Off
+## Be Extraordinary and Work Your Ass Off
 
 The first one is be extraordinary. This isn't an inspirational talk. And that sounds really fucking cheesy. 
 
@@ -65,7 +65,7 @@ I said, "I'm probably doing the right thing."
 
 * * * 
 
-##Ballsy Things Change the Status Quo 
+## Ballsy Things Change the Status Quo 
 
 I realize crazy things. Not crazy as in idiotic. But crazy as in ballsy. Ballsy things get talked about. Ballsy things change the status quo. 
 
@@ -83,7 +83,7 @@ There was probably a car wash - three or four in the southeast. One in Miami, on
 
 * * * 
 
-##Don't Have Customers. Have Friends 
+## Don't Have Customers. Have Friends 
 
 The next thing is you don't have customers. You have friends. 
 
@@ -125,7 +125,7 @@ That's robot talk. Talk to these people like they're your friends.
 
 * * * 
 
-##Personal Branding 
+## Personal Branding 
 
 Let's go to personal branding - it just makes me want to vomit. We're now in a time where people are coining phrases, terms, or terminology for things that have been going on for hundreds of years. 
 
@@ -193,7 +193,7 @@ The neat and clean stuff, the price, was all part of the brand he built.
 
 * * * 
 
-##Identify Value
+## Identify Value
 
 He was able to identify value. And he did it quickly. 
 
@@ -245,7 +245,7 @@ But if you're able to deliver a good product, then identify emotional values of 
 
 * * * 
 
-##Stay in Business by Not Spending Money 
+## Stay in Business by Not Spending Money 
 
 I'm going to tell you how to stay in business. It's by not spending money. It's taken me 30 years to realize this. It's a simple point. Why do businesses go out of business? 
 
@@ -305,7 +305,7 @@ Or this will allow you not to take projects on that you don't want to take if yo
 
 * * * 
 
-##Figure Out What is Important
+## Figure Out What is Important
 
 You might be young. You might be old. You might have kids. I don't know. But I have two kids and I've got a wife. We've been married awhile. Seven years. 
 
@@ -320,7 +320,8 @@ My parents, my dad missed so many hours growing up. He missed soccer games and b
 And I never resented him. He set a great expectation for me. And I hope I create a great expectation for my wife and family. 
 
 * * * 
-##Build Your Legacy 
+
+## Build Your Legacy 
 
 My grandfather passed away in 1963. So I never met my grandfather. My dad was 10 years old when he died. So I might have learned a lot more, who knows, if he would of been around. 
 

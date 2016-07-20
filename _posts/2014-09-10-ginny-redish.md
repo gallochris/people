@@ -9,7 +9,7 @@ link: Write Like a Human
 
 *Check out the [full conversation](http://www.stitcher.com/podcast/5by5/content-talks/e/content-talks-12-ginny-redish-31579782) with her and [Kristina Halvorson](https://twitter.com/halvorson) on the [Content Talks](http://5by5.tv/contenttalks) podcast. And find a short excerpt below.* 
 
-##Content as Conversation 
+## Content as Conversation 
 
 If you think about it, in a typical website, your site just doesn't exist until somebody comes to it. And somebody comes to it because they have a need, they have a question. 
 
@@ -25,7 +25,7 @@ Because then you're just shouting into a void and not working with the other per
 
 * * * 
 
-##The Web is for Self-Service
+## The Web is for Self-Service
 
 I think most people started their websites on the metaphor of a filing cabinet. Whether they made that explicit or not. 
 
@@ -41,7 +41,7 @@ So in a sense, the web is replacing customer service calls.
 
 * * * 
 
-##Write Like A Human 
+## Write Like A Human 
 
 Content as conversation actually starts before you think about what you're going to write or say. It's just that concept that there is another human being in this with you. 
 
@@ -55,7 +55,7 @@ Imagine this person and they're emotional attitude. And so when you're writing, 
 
 * * * 
 
-##What Do You Want To Achieve By Writing This? 
+## What Do You Want To Achieve By Writing This? 
 
 Most people think of it as I have this content to say. And don't realize that in the workplace, everything from an email to a webpage is actually serving some purpose. 
 

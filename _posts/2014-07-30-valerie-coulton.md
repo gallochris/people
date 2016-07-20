@@ -7,7 +7,7 @@ link: Servant Leadership
 
 *This is a conversation between [Alistair Croll](http://tiltthewindmill.com/about-me/) and [Valerie Coulton](https://twitter.com/coultonv) via [Tilt the Windmill](http://tiltthewindmill.com/about/). Valerie is an  Innovation Catalyst at [Schibsted Classified Media](http://www.schibsted.com/). She tells her story of moving to Barcelona and how her background in customer service has helped lead change in organizations. The excerpt is focused on the first 20 minutes, but hang on for more talk about disruption and lean analytics. Check out the [full audio here](http://tiltthewindmill.com/innovation-culture-and-design-valerie-coulton/).* 
 
-##What does it mean to be an Innovation Catalyst? 
+## What does it mean to be an Innovation Catalyst? 
 
 My role over the past year has been starting to bring in new ideas and question a lot about the way that we're doing things today. And the way we're thinking about things today. 
 
@@ -17,7 +17,7 @@ And also to bring them some tools, at this point are pretty well proven tools, t
 
 * * * 
 
-##How do you help people change? 
+## How do you help people change? 
 
 There is always a question about how far you can provoke people before you cross over into the rogue area. Over the past year, I've been trying to bring new ideas in - in a way that would be fairly easy for people to accept. Because I really want us to change the way that we're working. 
 
@@ -29,7 +29,7 @@ Because I think if I dropped in special agent style with a mission to radically 
 
 * * * 
 
-##How did you end up in Barcelona? 
+## How did you end up in Barcelona? 
 
 I'm originally from Berkeley and I was living in Oakland. My husband and I thought it would be fun to come to Barcelona for a year. 
 
@@ -40,13 +40,13 @@ Soon after we came here, we thought it would be cool to start working here. So w
 
 * * *  
 
-##What do you need for innovation? 
+## What do you need for innovation? 
 
 I think there is a Wizard of Oz trinity for innovation. You need a heart, a brain, and courage. 
 
 * * * 
 
-##Delighting Customers
+## Delighting Customers
 
 I have a crazy background. I started out in theater. Then I became a small business manager in the Bay area. And I worked in the speciality food industry. Also, coffee and tea. 
 
@@ -55,7 +55,8 @@ So I've done a lot of small business management and customer service stuff in th
 How can we serve people in a way that is delightful for them and meaningful and rewarding for ourselves. That's been the through line into everything I've done. 
 
 * * * 
-##Servant Leadership 
+
+## Servant Leadership 
 
 It's about having service at the heart of what you're doing. And being able to lead in a way that results in serving others. For me, this has always been a powerful concept. 
 
@@ -81,7 +82,7 @@ But it's all going back to this one simple concept.
 
 * * * 
 
-##Expectations for Customers
+## Expectations for Customers
 
 The fact there is a platform now to do more for customers, to do more for users - does make it a necessity. I think all of our expectations are going up. 
 

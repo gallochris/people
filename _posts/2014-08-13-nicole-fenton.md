@@ -7,7 +7,7 @@ link: Nicely Said
 
 *[Nicole Fenton](http://nicolefenton.com) is a guest on the [Happy Monday Podcast](http://www.happymondaypodcast.com/) with [Josh Long](https://twitter.com/joshlong) and [Sarah Parmenter](https://twitter.com/swazzy). Nicole designs with words. She is excellent communicator working with companies from Apple to Facebook. The trio talks her book, [Nicely Said](http://www.nicelysaid.co/), co-authored with [Kate Kiefer Lee](http://katekieferlee.com/) and other philosophies behind writing. Listen to the [full conversation here](http://www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton).* 
 
-##Starting from the bottom
+## Starting from the bottom
 
 I knew I wanted to be a writer when I was very young. I have an English degree and kind of come from a nerdy, technology family. 
 
@@ -25,7 +25,7 @@ I just started at the bottom. Which would be something I recommend to anyone who
 
 * * * 
 
-##[Nicely Said](http://www.nicelysaid.co/) 
+## [Nicely Said](http://www.nicelysaid.co/) 
 
 Kate and I really wanted to write the book we wish we had when we started our work. 
 
@@ -47,7 +47,7 @@ Just dealing with the editing process in a large or small organization. Where yo
 
 * * * 
 
-##The Problems with Writing on the Web
+## The Problems with Writing on the Web
 
 Sometimes companies know what they want to say, but they don't know how to say it. They talk about themselves or they just don't think in terms of the user. 
 
@@ -59,7 +59,7 @@ And that's not really the way to make good content.
 
 * * * 
 
-##How We're Taught to Write 
+## How We're Taught to Write 
 
 Honestly, clients come to me saying they don't want to do that. But they find themselves doing it. Because they don't know how to do the other thing, which is the right thing. 
 
@@ -73,7 +73,7 @@ It's a big gap.
 
 * * * 
 
-##Show Your Human Side 
+## Show Your Human Side 
 
 That's what Kate and I are always trying to advocate. Be you. Show your human side. That's what people want to see and identify with. 
 
@@ -89,7 +89,7 @@ It's that dismissive, we're not taking responsibility because our lawyers are ch
 
 * * * 
 
-##Good Examples of Writing 
+## Good Examples of Writing 
 
 We have a lot of good examples in the book. What Pinterest is doing, and Kate loves this company called [Quinn Popcorn](http://www.quinnpopcorn.com/). They're a small family that makes popcorn and their doing great stuff. Just the way they put these touches on product. 
 
@@ -103,7 +103,7 @@ Which I think is the right way to promote yourself. It's to show how you're help
 
 * * * 
 
-##We Need More Writers
+## We Need More Writers
 
 I think they're is a little bit of a stigma around the stuff that I do. People think help center documentation or error messages or interface labels - that's not sexy right? 
 
@@ -115,7 +115,7 @@ There is a huge gap between where we are and how good it could be if more people
 
 * * *
 
-##Book Recommendations 
+## Book Recommendations 
 
 I read a lot of things in connected fields. I like to read about design and writing and editing - I don't just stick to the books that say "for the web" on them. 
 

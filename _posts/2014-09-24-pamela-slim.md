@@ -9,7 +9,7 @@ link: Body of Work
 
 *Sean and Pamela discuss her book, [Body of Work: Finding the Thread That Ties Your Story Together](http://www.amazon.com/Body-Work-Finding-Thread-Together/dp/1591846196). After listening, I've added this one to my list to read in the near future. Check out an excerpt below and listen to the [full conversation here](http://99u.com/articles/28643/the-99u-podcast-job-hunting-with-pamela-slim).*
 
-##Body of Work 
+## Body of Work 
 
 The purpose of our life is to create a body of work that we're very proud of. And by body of work, I mean everything that we create, that we impact, that we affect, and that we contribute. 
 
@@ -23,7 +23,7 @@ Imagine yourself on your last day of life looking back, and ask yourself what do
 
 * * * 
 
-##We're All Different 
+## We're All Different 
 
 If there is one thing I know for sure, it's that none of us are the same. 
 
@@ -53,7 +53,7 @@ I've worked many days in my life. But I love working. And I think work can be en
 
 * * * 
 
-##Experience and Your Ingredients
+## Experience and Your Ingredients
 
 I think we miss a lot when we look at our skills when we think about what's good for a resume. 
 
@@ -87,7 +87,7 @@ But when you're thinking a little more creatively about the kind of projects you
 
 * * * 
 
-##Create Something
+## Create Something
 
 The way that we get to know ourselves is in the process of creation. 
 

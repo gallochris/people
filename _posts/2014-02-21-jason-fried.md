@@ -10,6 +10,7 @@ link: Sharing Advice from Jeff Bezos
 > I love listening to him, more than talking to him. I will give you one business thing and one life thing he told us. 
 
 * * * 
+
 ## Business
 
 The most important thing in business is to figure out what's **not** going to change in your business. And invest heavily in that.  
@@ -33,6 +34,7 @@ People aren't going to wake up 10 years from now and say I wish Basecamp was har
 So those are the places we invest. And I believe in that a lot. 
 
 * * * 
+
 ## Life
 
 About life, he said you don't find your passions. Your passions find you. So when I ask him, why are you into space? He says, I don't know space found me. 

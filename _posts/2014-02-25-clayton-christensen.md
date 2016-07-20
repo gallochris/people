@@ -7,7 +7,7 @@ link: Measuring your Life
 
 *This is a short excerpt from a conversation between Clayton Christensen and Tom Ashbrook on the On Point NPR radio show. Christensen is the co-author of [How to Measure Your Life](http://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419), a book that uses business and real-life examples to teach you lessons. Sandwiched between religious and political sidebars, there is thought-provoking conversation as Christensen answers questions from the audience. Listen to the [full conversation](http://onpoint.wbur.org/2012/05/22/clay-christensen) here.*
 
-##Where You Spend Your Resources
+## Where You Spend Your Resources
 
 Toyota didn't come to America with the Lexus. Rather they came into the bottom of the market with a rusty little compact called a Corona. They went from Corona to Tercel, Camry, Avalon, Four Runner, Sequioa, and then a Lexus. 
 
@@ -33,7 +33,7 @@ The reason why corporations have this propensity to invest in the short rather t
 
 * * * 
 
-##Deciding to be Happy
+## Deciding to be Happy
 
 My other co-author, Karen Dillon, was the executive editor of the Harvard Business Review. She edited the article I wrote before we wrote this book. And she decided that she needed to quit. 
 
@@ -61,7 +61,7 @@ And if I can't be that kind of a person working in this company, I don't want to
 
 * * * 
 
-##Choosing Who You Want to Become
+## Choosing Who You Want to Become
 
 We each individually need to decide what kind of person that we want to become. To get to that point, I don't think it's inconsistent for me to say - what are the characteristics of Clay Christensen do I want to find myself having accumulated or built over the course of my life? 
 

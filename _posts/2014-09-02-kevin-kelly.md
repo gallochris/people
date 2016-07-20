@@ -13,7 +13,7 @@ link:  On the Tim Ferriss Show
 * [Part 2](http://traffic.libsyn.com/timferriss/TIMFERRISSSHOW027KELLYpt2.mp3)
 * [Part 3](http://traffic.libsyn.com/timferriss/TIMFERRISSSHOW028KELLYpt3.mp3)
 
-##When You're Young, Get Involved in Slack 
+## When You're Young, Get Involved in Slack 
 
 I got involved in starting Wired and running Wired for awhile. And hired a lot of people coming right out of college. They were interns and they would do the intern thing. 
 
@@ -33,7 +33,7 @@ It's a time to try stuff. Explore the possibilities. And there are so many possi
 
 * * * 
 
-##You Don't Need Much to Be Happy 
+## You Don't Need Much to Be Happy 
 
 One of the life skills that you want to learn at a young age, is the skill of being ultra thrifty, minimal. In a sense of how little you actually need to live not just in survival mode, but in a contented mode. 
 
@@ -51,7 +51,7 @@ Doing that once or twice, you don't necessarily have to live like that, but know
 
 * * *
 
-##Write to Think 
+## Write to Think 
 
 Teachers have done a lot of studies where they have kids write an essay on something, an assignment. And then they would also be instructed to write an email to a friend. 
 
@@ -72,8 +72,8 @@ It's like I don't have any ideas. It's true. But when I write, I get the ideas.
 This is an idea generation machine. Writing. 
 
 * * * 
-
-##Money is Overrated
+ 
+## Money is Overrated
 
 Money is so overrated. 
 
@@ -104,8 +104,8 @@ Travel is one of the great examples. Many people are working very hard, saving t
 I decided to flip it around and travel when I was really young. And had zero money. I had experiences that even a billion dollars couldn't of bought. 
 
 * * * 
-
-##The Future
+ 
+## The Future
 
 To be fully human, we have to have our future. We have to look forward to the future. That is part of us. It's looking into the future. 
 
@@ -125,7 +125,7 @@ So the dilemma is any true forecast about the future is going to be dismissed. A
 
 * * * 
 
-##Technology Sabbaths 
+## Technology Sabbaths 
 
 One of the things I learned from them [the Amish], when we had younger kids, is we had technological sabbaticals or sabbaths. 
 
@@ -141,7 +141,7 @@ You want to step back, so you can re-enter it with a renewed perspective, with a
 
 * * * 
 
-##What Successful Means
+## What Successful Means
 
 Success is also overrated. Greatness is overrated. 
 
@@ -161,7 +161,7 @@ But that's what I chalk up as success, is you make a new slot.
 
 * * *  
 
-##How to Decide What Books to Read
+## How to Decide What Books to Read
 
 It's like what are you going to listen to new in music. I think the music becomes free and everybody has access to all the music in the world. But deciding what you're going to listen to becomes the thing you pay for. 
 
@@ -177,7 +177,7 @@ It's not going anywhere it's just sitting there. So I really shouldn't purchase 
 
 * * * 
 
-##Cultivating a Paper Library 
+## Cultivating a Paper Library 
 
 I was near to the point of actually digitizing and getting rid of all my paper books. I was that close about five years ago. 
 
@@ -189,7 +189,7 @@ So I decided to keep and kind of cultivate this paper library as something that 
 
 * * * 
 
-##Discovery and Invention 
+## Discovery and Invention 
 
 In a very high dimensional space, which means a space of lots of possibilities, the act of finding and the act of creating are identical. 
 

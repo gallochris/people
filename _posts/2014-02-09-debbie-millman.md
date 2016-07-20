@@ -7,7 +7,7 @@ link: Making your own happiness
 
 *The following is an excerpt from a conversation between [Debbie Millman](http://debbiemillman.com/) and Jonathan Fields for the [Good Life Project](http://www.goodlifeproject.com/). Millman shares her career path and wisdom on how to find purpose in your life. Watch and listen to the [full episode here](http://www.youtube.com/watch?v=zwGLx7l1Ybc).*
 
-##Do what you want
+## Do what you want
 
 I teach seniors in college. And my class is about getting a job. But it's about getting the job of your dreams. Not just getting a job to pay the rent. 
 
@@ -17,7 +17,7 @@ And it's a lot harder at 32 or 42, than it is at 22.
 
 * * * 
 
-##Growing up
+## Growing up
 
 I kept diaries from 1973 to 1992. And I've been going through and reading them all. I realized just how low I felt and how hopeless I felt about life. 
 
@@ -31,7 +31,7 @@ The one common denominator that I can share with anyone that is going through se
 
 * * * 
 
-##Patience
+## Patience
 
 I think one of the unfortunate aspects of the technologically driven world that we live in is the speed in which people want things to happen. I've been joking a lot lately that we're now living in a 140 character culture. 
 
@@ -47,7 +47,7 @@ Like I can't even come up with an idea in six weeks, let alone a viral blog. Thi
 
 * * * 
 
-##Success takes time
+## Success takes time
 
 People in there 20s, when they graduate from college, expect that they *have* to be successful. And if they aren't successful in their 20s or right out of the gate, that there is something wrong with them. And that builds into this real sense of hopelessness because they haven't achieved something quickly. 
 
@@ -57,7 +57,7 @@ I'd much rather build to something that could conceivably be sustained just beca
 
 * * * 
 
-##Fulfillment and Happiness 
+## Fulfillment and Happiness 
 
 This is where I think we run into trouble in being fulfilled. If you think about it, our grandparents didn't come home at night and talk to their spouses or siblings or whoever about whether or not they were happy at work. 
 
@@ -73,7 +73,7 @@ Make what you need to do to be happy. Even if other people think it's crap. Even
 
 * * * 
 
-##What's a good life? 
+## What's a good life? 
 
 Imagine immensities. Pick yourself up from rejection and plow ahead. Don’t compromise.
 

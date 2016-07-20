@@ -7,7 +7,7 @@ link: Creative Exhaust
 
 *The following is a TEDx talk with Brad Frost. The web designer, writer, and speaker delivers a perspective about  why you should share what you create across the web. You should check out [his blog](http://bradfrostweb.com/blog/) and his [Death to Bullshit](http://bradfrostweb.com/blog/post/death-to-bullshit-at-creative-mornings/) talk about craft. Check out the full [TEDx video here](http://www.youtube.com/watch?v=7rW9vTrN6OU).* 
 
-##How the Web Changed Creation 
+## How the Web Changed Creation 
 
 Because it was so expensive to create, the focus was always on the final product. We only printed the good stuff. We only broadcasted or printed the final thing, leaving a vail of mystery around the process that led up to the final work. 
 
@@ -21,7 +21,7 @@ Why we create? How we create? Who can create? And what can be created in the pro
 
 * * * 
 
-##What Makes the Web Successful 
+## What Makes the Web Successful 
 
 First, the web is ubiquitous. The web is meant for everyone regardless of race, religion, color, creed, geography, mobile carrier. The web is meant for everyone. That's far and away its biggest super power. 
 
@@ -51,7 +51,7 @@ My friend [Chris Coyier](https://twitter.com/chriscoyier) has a website called [
 
 * * * 
 
-##Sharing What Works 
+## Sharing What Works 
 
 I get terribly excited when I start to hear about this open mentality start to pour out into other aspects of society and other industries. But I still feel like we have a really long way to go. 
 
@@ -69,7 +69,7 @@ I think we need more examples of things being done openly, more information bein
 
 * * * 
 
-##Why Share? 
+## Why Share? 
 
 Anybody that makes something - you know what an uncomfortable idea it is to share some of your work before it's finished. It's a really uncomfortable concept. 
 
@@ -85,7 +85,7 @@ What I've found is that in a lot of cases, it's actually easier for me to try to
 
 * * * 
 
-##Data Exhaust to Creative Exhaust 
+## Data Exhaust to Creative Exhaust 
 
 What data exhaust is sort of the by-product of our online activity. Every day we go online and we check out email, opening new tabs, clicking on things, completing tasks and all the while we're leaving behind this giant wake of data. 
 
@@ -97,7 +97,7 @@ Creative exhaust can have value. These by-products of the actual work itself can
 
 * * * 
 
-##Opportunity to Share What You Know
+## Opportunity to Share What You Know
 
 I think we have a massive opportunity here to not just share our final works, but using tools like Dribble that allow graphic designers to share their works in progress with the world and get valuable feedback. 
 
@@ -119,7 +119,7 @@ What's better? Increasing donations to your site by 20 percent? Or figuring out 
 
 * * * 
 
-##Has the Internet been a good thing or bad thing? 
+## Has the Internet been a good thing or bad thing? 
 
 Recently Pew Research conducted a study as the web turns 25. And asked a very simple question - has the Internet been a good thing or bad thing?
 
@@ -137,7 +137,7 @@ I consider myself extremely fortunate to be part of the medium that makes those 
 
 * * * 
 
-##3 Pieces of Advice 
+## 3 Pieces of Advice 
 
 Work hard. Don't be an asshole. Share what you know. 
 

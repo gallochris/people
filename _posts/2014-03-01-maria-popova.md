@@ -7,7 +7,7 @@ link: Audience of One
 
 *This is a conversation from the Employee of the Month podcast. [Catie Lazarus](https://twitter.com/catielazarus) and Maria Popova talk through life and learning. Popova curates an amazing blog called [Brain Pickings](http://www.brainpickings.org/) and runs a discovery engine called [Explore](http://explore.noodle.org/). It's impossible not to find inspiration in her work and this talk. Listen to the full [45 minute conversation here](https://soundcloud.com/employeeofthemonthshow/popova-maria ) and check out excerpts below.* 
 
-##How did Brain Pickings Start? 
+## How did Brain Pickings Start? 
 What I do always has two components. And they are always sequential like that. Learning. And then teaching. Or learning and sharing the process of that learning. 
 
 So it is always about perpetual learning. It actually all began in the confines of the liberal arts institution that I went to and felt let down by academically and intellectually. 
@@ -16,7 +16,7 @@ And it just became the record of what I wanted to learn about. It has commonalit
 
 * * * 
 
-##Are you worried you won't own what you create? 
+## Are you worried you won't own what you create? 
 
 At the end of the day, what I do is still for an audience of one. It's still for me. And what I retain is in my head is enough for me. 
 
@@ -30,7 +30,7 @@ And that no one can take away. Of course in very petty and practical terms, Brai
 
 * * * 
 
-##Fear
+## Fear
 
 Our biggest fear, as humans, is that we don't matter. 
 
@@ -40,7 +40,7 @@ And having those touchstones, as you call it, are little reminders that we exist
 
 * * *  
 
-##How did you build Brain Pickings into a business? 
+## How did you build Brain Pickings into a business? 
 
 The business part has always been a by-product. I've been doing this for 7 years. The first 5 years I was flat-broke. 
 
@@ -60,7 +60,7 @@ It's just sort of mind-melding. You find your people. You find your tribe. And y
 
 * * * 
 
-##Content
+## Content
 
 I think it's so off-putting when we refer to writing as content. What are we filling with this content. It's garbage bins - fill it with the content. 
 
@@ -76,7 +76,7 @@ By in large, we apply to aggregation and all of these ways of handling content. 
 
 * * * 
 
-##Why Content is Off-Putting? 
+## Why Content is Off-Putting? 
 
 The fundamental reason it's like this is because advertising is still the currency in which media is funded. So a lot of what people call content is really that. A vehicle to advertising. It doesn't really matter what the substance is. 
 

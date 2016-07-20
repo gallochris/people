@@ -15,7 +15,7 @@ You just can't use it to get anywhere. And as soon as you put that handle on it,
 
 * * * 
 
-##Advice on Getting Started and Becoming an Expert 
+## Advice on Getting Started and Becoming an Expert 
 
 I almost like the idea of picking something you're not very good at. And then documenting all the questions that you have as you go through it, where these are all questions that other people will be having. 
 
@@ -25,7 +25,7 @@ You can tell people, "if you don't want to spend six months, you can spend $40 o
 
 * * * 
 
-##What Can People Do with Your Product 
+## What Can People Do with Your Product 
 
 It's about people. But it's also not just about what your product does, it's about what your product lets people do. 
 
@@ -41,7 +41,7 @@ People don't buy products. People buy better versions of themselves.
 
 * * * 
 
-##What Onboarding is About 
+## What Onboarding is About 
 
 I think a lot of people mistake that onboarding is just getting people setup with the product or getting people better at using the product. 
 
@@ -59,7 +59,7 @@ Just explaining how to the interface works doesn't get people very far.
 
 * * * 
 
-##Make People Feel Successful 
+## Make People Feel Successful 
 
 It's also about getting people engaged. Somebody is like, "alright, I'm sick of being a product manager screw up. I'm signing up for Basecamp today." 
 
@@ -75,7 +75,7 @@ How can you really get them engaged and scoring quick wins as quickly as possibl
 
 * * * 
 
-##The First 5 Minutes of Your Product 
+## The First 5 Minutes of Your Product 
 
 A lot of research I did when I started looking at onboarding was on video game design. It's been around a lot longer. Game design theory is a little more evolved. A lot of overlaps with first level design and tutorial design. 
 
@@ -93,7 +93,7 @@ That's really what I encourage people to apply to their product design as well. 
 
 * * *  
 
-##Creating a More Human Experience 
+## Creating a More Human Experience 
 
 If you were serving a customer in person, and your product was swapped out in your place, would you have said the same things your product said with the same tone? 
 

@@ -8,7 +8,7 @@ link: Brands are People
 *The following is an excerpt from a 2010 conversation between Stanley Hainsworth and [Robert Scoble](https://twitter.com/Scobleizer). Hainsworth shares his path to storytelling and his agency [Tether](http://www.tetherinc.com/home.aspx). Special thanks to Scoble and [Rackspace](https://www.youtube.com/user/building43) for hosting the video. Watch the [full conversation here](https://www.youtube.com/watch?v=ejSSLzaJplw).* 
 
 
-##Brands are People 
+## Brands are People 
 
 I always equate brands as people. You could describe what Apple is as a person. Because of the personality they've created. 
 
@@ -20,7 +20,7 @@ The name of that company - what does that stand for now? If that company wants t
 
 * * *
 
-##Steve Jobs and Apple 
+## Steve Jobs and Apple 
 
 It's all part of that brand personality. He's realized that me, as a person, I want to associate myself with things that complement my story. That help define who I am. 
 
@@ -32,7 +32,7 @@ His attention to detail and the beauty of it, really ties to his story. Some peo
 
 * * *
 
-##How do you get to being a loved brand? 
+## How do you get to being a loved brand? 
 
 You have to have an authentic story and you have to be true to that. 
 
@@ -46,7 +46,7 @@ The consumer will correct you - by leaving you to go somewhere else. That's not 
  
 * * * 
 
-##Technology as a Crutch
+## Technology as a Crutch
 
 The computers can't come up with the ideas for us. The technology can't generate the ideas. I just finished a book about how ideas come to life - it's called [Idea-ology](http://www.amazon.com/Idea-ology-Designers-Journey-Turning-Inspired/dp/1592535976). 
 
@@ -62,13 +62,13 @@ So that's what the book is - how do you come up with an original idea, make it y
 
 * * * 
 
-##Brands read your soul 
+## Brands read your soul 
 
 That's what great companies do. They'll read your soul and give you something you don't even know you need. 
 
 * * * 
 
-##Long term plan
+## Long term plan
 
 Every startup should have their one-year plan, but even more important is there five-year plan. 
 
@@ -80,7 +80,7 @@ This is where I see us in five years. Because I interviewed myself five years fr
 
 * * * 
 
-##Get Your Point Across
+## Get Your Point Across
 
 When I was at Starbucks, I noticed the photography wasn't looking good. It's because there was like 5 clients with the art director and photographer. 
 

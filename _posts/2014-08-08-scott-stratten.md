@@ -7,7 +7,8 @@ link: Accidental Creative
 
 *This is a conversation between [Scott Stratten](https://twitter.com/unmarketing) and [Todd Henry](http://www.toddhenry.com/) on the [Accidental Creative podcast](http://www.accidentalcreative.com/). The two rant and discuss how to show empathy in marketing and his book [QR Codes Kill Kittens](http://www.unmarketing.com/about/unbooktour-dates/). Listen to the [full conversation here](http://www.accidentalcreative.com/podcasts/ac/ac-podcast-scott-stratten-on-unmarketing/).* 
 
-##Unmarketing 
+## Unmarketing 
+
 12 years ago we formed the company to market the way people wanted to be marketed to. It was created out of, I was just fed up with hypocritical marketing. 
 
 Everybody hated getting a cold call. But they wanted to do it better for their own business. And it just hurt my brain. It doesn't make any sense. 
@@ -18,13 +19,13 @@ And there is ways of positioning yourself in front of your audience that can be 
 
 * * * 
 
-##Narcissistic Marketing 
+## Narcissistic Marketing 
 
 I think narcissistic is actually latin for marketing. Like I really think the translation of the word  - you're exactly right. 
 
 That's what its turned into - look at me. That's the totally backwards way of thinking about it.  
 
-##Poor Marketing 
+## Poor Marketing 
 
 What I've seen for a number years now, it's both surprising to me and not, is people are trying to market the same way in every channel. 
 
@@ -39,7 +40,8 @@ They take the content and they shoot it out. You have some shotgunners. You have
 But none of them are conversationalists. None of them understand the collaborative conversation that makes social "social". They get in there and they wonder why they're getting backlash or no response or no traction. 
 
 * * * 
-##Good Marketing 
+
+## Good Marketing 
 
 The point is I love where we're at now. Because creativity pays. I don't mean we get paid to write very well anymore or create more. But it pays through content. 
 
@@ -65,7 +67,7 @@ This is the first time I can really see it in a general population sense that cr
 
 * * * 
 
-##Vulnerable 
+## Vulnerable 
 
 If you want everybody to like you, nobody does. 
 
@@ -85,7 +87,7 @@ For me, if I don't offend at least a person a day - I'm not doing it right.
 
 * * * 
 
-##Todd on finding your own voice 
+## Todd on finding your own voice 
 
 People want quick success, and they're in such a hurry to get it, they cannot take time to be true to themselves. This idea that people are so busy imitating other people's tactics. 
 

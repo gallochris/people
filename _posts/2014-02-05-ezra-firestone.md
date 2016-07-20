@@ -7,7 +7,7 @@ link: Messaging and Marketing
 
 *The following is an excerpt from the [eCommerceFuel](http://www.ecommercefuel.com/) podcast with Andrew Youderian and Ezra Firestone. Ezra shares his unique story from poker player turned entrepreneur, and how to market a product with messaging. Listen to the full [interview here](http://www.ecommercefuel.com/blending-message-product-ezra-firestone/).*
 
-##How to get what you want
+## How to get what you want
 
 I believe you get what you want from people who have it. If you want to run an eCommerce store, you find someone like you - and you learn it from them.
 
@@ -29,7 +29,7 @@ And then I ended taking over his company and sort of cutting my teeth on informa
 
 * * * 
 
-##What You Need to Make a Business Work
+## What You Need to Make a Business Work
 
 I have all these different businesses. And one thing I understood from the beginning was in order to make a business work you need a couple things. 
 
@@ -45,7 +45,7 @@ It was the business model I felt I could scale the best and be proud of.
 
 * * * 
 
-##Not About You and Your Products
+## Not About You and Your Products
 
 The faceless eCommerce store is dying. And you can no longer just list products and expect to do well in a market. You got to add some form of value beyond products to your marketplace. 
 
@@ -61,7 +61,7 @@ So when you have a group of people who are having what I call a collective exper
 
 That is a group of people going through a collective experience. They're all going through the same thing at the same time. So you can talk to them about that experience and make them offers that are relevant to those experiences and their lives. 
 
-##Messaging makes the difference
+## Messaging makes the difference
 
 With every product, there are similar products. What differentiates what you're going to be able to sell is your messaging. 
 
@@ -69,7 +69,7 @@ And with BOOM we have phenomenal messaging in this particular business. Because 
 
 * * * 
 
-##What is Selling? 
+## What is Selling? 
 
 Selling is taking the information someone gives you about themselves and making them a relevant offer based on that information. 
 

@@ -7,7 +7,7 @@ link: Kicking Ass
 
 *The following is an excerpt from 2010 Gov 2.0 Expo with Kathy Sierra. She has given this talk several times and spread the message on her [blog](http://headrush.typepad.com/). Special thanks to [O'Reilly Media](https://www.youtube.com/user/OreillyMedia) for hosting the video. Watch the [full talk here](https://www.youtube.com/watch?v=aM55NiXSOPs).* 
 
-##Kicking Ass
+## Kicking Ass
 
 Where there is passion, there are people kicking ass. People don't sustain passion for things they continue to suck at. 
 
@@ -17,7 +17,7 @@ For example, the more you learn about a particular style of music - you actually
 
 * * * 
 
-##Higher Resolution 
+## Higher Resolution 
 
 High resolution means deeper, richer experiences. And that's the kind of thing we need to create for people or we're not going to have passion. 
 
@@ -25,7 +25,7 @@ Because it always exists where there is passion.
 
 * * * 
 
-##Create Killer Users
+## Create Killer Users
 
 Yeah, this is an obvious thing. But it's amazing how little we focus on that when we want people to become passionate. Because we are so focused on our role. 
 

@@ -9,7 +9,7 @@ link: Jobs-to-be-Done
 
 *Check out a slew of examples below and listen to the full conversation with Bob and [Horace Dediu](https://twitter.com/asymco) on the [Critical Path podcast](http://5by5.tv/criticalpath/19).* 
  
-##Example: Snickers vs. Milky Way 
+## Example: Snickers vs. Milky Way 
 
 Let's look at the candy isle. For example, the Snickers and the Milky Way. You look at these two and say, "Snickers and Milky Way compete." 
 
@@ -31,7 +31,7 @@ Versus a Milk Way, which really if you look at how people hire it, it's very dif
 
 * * * 
 
-##What You Actually Hire Facebook to Do 
+## What You Actually Hire Facebook to Do 
 
 The job is actually technology or product independent. So it allows to start putting new technologies in there. 
 
@@ -51,7 +51,7 @@ People have hired it to do that job of keeping them connected. And to be honest 
 
 * * * 
 
-##Disruption 
+## Disruption 
 
 AT&T isn't thinking about Sunday night calls. Everybody is looking at technology. The fact is the person getting disrupted, doesn't even know they're getting disrupted. 
 
@@ -61,7 +61,7 @@ To me, that is the power of what jobs looks at.
 
 * * * 
 
-##Building Homes vs. Helping People Move 
+## Building Homes vs. Helping People Move 
 
 The best example I can think of is in 2005 I was building industry. We were building homes in the Detroit area. We were the second largest builder in the Metro Detroit area. 
 
@@ -113,7 +113,7 @@ When you started to help people understand that moving was a standard and includ
 
 * * * 
 
-##Too Many Choices is Paralyzing 
+## Too Many Choices is Paralyzing 
 
 We have a model we talk about called the Forces of Progress. We talk about the push of the situation. So some situational context is going to say I need to do something different or better. 
 
@@ -131,7 +131,7 @@ Over-choice actually creates more anxiety and non-consumption.
 
 * * * 
 
-##Don't Ask People What They Want
+## Don't Ask People What They Want
 
 Never talk to people about what they want. 
 
@@ -157,7 +157,7 @@ If you ask them do you want a house on a slab? They're going to say no. But unti
 
 * * * 
 
-##Descriptive vs. Prescriptive Theory 
+## Descriptive vs. Prescriptive Theory 
 
 Clay and I working around the difference between descriptive and prescriptive theory. 
 
@@ -173,7 +173,7 @@ The reality is it's better than what other methodologies there are today when it
 
 * * * 
 
-##Start with the Consumer 
+## Start with the Consumer 
 
 Apple started with the consumer. They started with the people that used the computers. And made computers the way that they wanted. And ignored the secondary buyers, which is the corporate buyers. 
 

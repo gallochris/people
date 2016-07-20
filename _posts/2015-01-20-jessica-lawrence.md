@@ -11,7 +11,7 @@ slug: jessica-lawrence
 
 * * * 
 
-##Doing What You Think is Right 
+## Doing What You Think is Right 
 
 Most of the time when I was in high school, it was a good thing to be featured in the school newspaper. 
 
@@ -39,7 +39,7 @@ What I cared about was doing what I thought was right.
 
 * * * 
 
-##All Rules aren't Created Equal 
+## All Rules aren't Created Equal 
 
 If it's not already clear, I'm someone who likes rules. I'm careful. I tend to like order. 
 
@@ -65,7 +65,7 @@ I still had a lot to learn about leadership and change.
 
 * * * 
 
-##Trust
+## Trust
 
 And starting my career in a 100-year-old organization would turn out to be the perfect classroom. 
 
@@ -95,7 +95,7 @@ We realized we needed to throw out the whole rulebook and start with something n
 
 * * * 
 
-##Escape the Uncomfortable Gap 
+## Escape the Uncomfortable Gap 
 
 So we made bold, rapid changes. 
 
@@ -117,7 +117,7 @@ And I had let that space, which I had usually left open for others, close just a
 
 * * * 
 
-##Space 
+## Space 
 
 A few years ago, I left Girl Scouts, moved to New York and started my current position at New York Tech Meetup. 
 
