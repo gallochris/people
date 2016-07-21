@@ -10,11 +10,11 @@ permalink: :title
 # ==========================
 title: People | Hot Dogs and Eggs
 subtitle: "The website of Chris Gallo."
-url: https://people.hotdogsandeggs.com
+url: http://people.hotdogsandeggs.com
 description: "You can see a lot just by listening. Transcribed advice from real people by Chris Gallo."
 twitter_username: cjgallo
 navigation:
  - title: Blog
-   url: https://blog.hotdogsandeggs.com/
+   url: http://blog.hotdogsandeggs.com/
  - title: People
    url: /
