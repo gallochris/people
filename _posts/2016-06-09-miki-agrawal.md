@@ -96,6 +96,6 @@ That's super important. The freedom of time.
 
 And now that I have freedom of time, my definition of success changed to living to my full potential, which means I can impact as many people as I can. 
 
-* * * 
+*Thanks, Miki.*
 
 
