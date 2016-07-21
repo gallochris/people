@@ -4,6 +4,7 @@
 markdown: kramdown
 permalink: :title
 
+
 # ==========================
 # == Custom Configuration ==
 # ==========================
@@ -17,5 +18,3 @@ navigation:
    url: http://blog.hotdogsandeggs.com/
  - title: People
    url: /
- - title: About
-   url: http://hotdogsandeggs.com/about/
