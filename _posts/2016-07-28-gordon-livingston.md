@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gordon Livingston
-preview: The 3 compenents of happines: what we do, someone to love, something to look forward to. 
+preview: The 3 compenents of happiness are what we do, someone to love, something to look forward to. 
 link: Too Soon Old, Too Late Smart
 slug: gordon-livingston
 ---
