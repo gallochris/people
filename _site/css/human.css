@@ -412,8 +412,8 @@ h1 {
 }
 
 .people-title {
-    font-size:22px;
-    text-align:center
+    font-size:28px;
+    text-align:center;
 }
 
 .blog-date {
@@ -462,8 +462,8 @@ blockquote {
 .blog a {
     text-decoration:bold;
     color:inherit;
-    border-bottom:2px solid #56a0d3;
-    padding-bottom: 4px;
+    border-bottom:1px solid #56a0d3;
+    padding-bottom: 2px;
 }
 
 .the-text {
@@ -552,8 +552,8 @@ nav a {
     margin:0 1.5em;
     color: inherit;
     text-decoration:none;
-    padding-bottom:4px;
-    border-bottom:2px solid #56a0d3;
+    padding-bottom:2px;
+    border-bottom:1px solid #56a0d3;
 }
 
 nav a.active {

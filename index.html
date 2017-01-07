@@ -4,20 +4,20 @@ layout: default
 ---
 <div class="row">
 <div class="content">
-  <div class="eight columns offset by-two">
+  <div class="ten columns offset by-one">
   <h1 style="text-align: center">You can see a lot just by listening</h1>
   <p class="blog-text">Transcribed advice from real people</p>. 
+
   <hr>
 {% for post in site.posts %}
 
-  <ul style="list-style: none;">
+  <ul style="list-style: none; text-align: center;">
    <li>
-    <a href="{{ post.url }}">
       <div>
         <span class="people-title">{{ post.title }}</span>
-        <span class="date">{{ post.link }}</span>
+        </br>
+            <a href="{{ post.url }}"><span>{{ post.preview }}</span></a>
       </div>
-    </a>
   </li>
   <hr>
   </ul>

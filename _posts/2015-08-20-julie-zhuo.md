@@ -35,6 +35,7 @@ Or love what they're doing a little bit more?
 To me, management in many ways is also a design problem. It's just you're designing more of the people side of it. 
 
 * * * 
+
 ## What has changed as Facebook has grown? 
 
 From a product perspective, when we were a college site, it was much easier to change stuff around. Because everybody would be like, "awesome, you launched this new feature. I love it." 

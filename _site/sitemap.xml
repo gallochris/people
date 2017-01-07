@@ -3,7 +3,52 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/miki-agrawal</loc>
+      <loc>http://localhost:4000/shep-gordon</loc>
+      
+        <lastmod>2016-12-05T00:00:00-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/karen-dillon</loc>
+      
+        <lastmod>2016-10-13T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/gordon-livingston</loc>
+      
+        <lastmod>2016-07-28T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/miki-agrawal</loc>
       
         <lastmod>2016-06-09T00:00:00-04:00</lastmod>
       
@@ -18,7 +63,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/omar-zenhom</loc>
+      <loc>http://localhost:4000/omar-zenhom</loc>
       
         <lastmod>2016-03-28T00:00:00-04:00</lastmod>
       
@@ -33,7 +78,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/beth-dunn</loc>
+      <loc>http://localhost:4000/beth-dunn</loc>
       
         <lastmod>2016-03-09T00:00:00-05:00</lastmod>
       
@@ -48,7 +93,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/j-dilla</loc>
+      <loc>http://localhost:4000/j-dilla</loc>
       
         <lastmod>2016-02-19T00:00:00-05:00</lastmod>
       
@@ -63,7 +108,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/rachel-andrew</loc>
+      <loc>http://localhost:4000/rachel-andrew</loc>
       
         <lastmod>2016-02-10T00:00:00-05:00</lastmod>
       
@@ -78,7 +123,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/manoj-bhargava</loc>
+      <loc>http://localhost:4000/manoj-bhargava</loc>
       
         <lastmod>2016-01-21T00:00:00-05:00</lastmod>
       
@@ -93,7 +138,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/saya-hillman</loc>
+      <loc>http://localhost:4000/saya-hillman</loc>
       
         <lastmod>2016-01-05T00:00:00-05:00</lastmod>
       
@@ -108,7 +153,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/william-ury</loc>
+      <loc>http://localhost:4000/william-ury</loc>
       
         <lastmod>2015-10-15T00:00:00-04:00</lastmod>
       
@@ -123,7 +168,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/julie-zhuo</loc>
+      <loc>http://localhost:4000/julie-zhuo</loc>
       
         <lastmod>2015-08-20T00:00:00-04:00</lastmod>
       
@@ -138,7 +183,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/kevin-maney</loc>
+      <loc>http://localhost:4000/kevin-maney</loc>
       
         <lastmod>2015-08-06T00:00:00-04:00</lastmod>
       
@@ -153,7 +198,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/torrey-p</loc>
+      <loc>http://localhost:4000/torrey-p</loc>
       
         <lastmod>2015-07-01T00:00:00-04:00</lastmod>
       
@@ -168,7 +213,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/merlin-mann</loc>
+      <loc>http://localhost:4000/merlin-mann</loc>
       
         <lastmod>2015-06-05T00:00:00-04:00</lastmod>
       
@@ -183,7 +228,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/jessica-lawrence</loc>
+      <loc>http://localhost:4000/jessica-lawrence</loc>
       
         <lastmod>2015-01-20T00:00:00-05:00</lastmod>
       
@@ -198,7 +243,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/samuel-hulick</loc>
+      <loc>http://localhost:4000/samuel-hulick</loc>
       
         <lastmod>2014-11-09T00:00:00-05:00</lastmod>
       
@@ -213,7 +258,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/pamela-slim</loc>
+      <loc>http://localhost:4000/pamela-slim</loc>
       
         <lastmod>2014-09-24T00:00:00-04:00</lastmod>
       
@@ -228,7 +273,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/bob-moesta</loc>
+      <loc>http://localhost:4000/bob-moesta</loc>
       
         <lastmod>2014-09-16T00:00:00-04:00</lastmod>
       
@@ -243,7 +288,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/ginny-redish</loc>
+      <loc>http://localhost:4000/ginny-redish</loc>
       
         <lastmod>2014-09-10T00:00:00-04:00</lastmod>
       
@@ -258,7 +303,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/kevin-kelly</loc>
+      <loc>http://localhost:4000/kevin-kelly</loc>
       
         <lastmod>2014-09-02T00:00:00-04:00</lastmod>
       
@@ -273,7 +318,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/jenn-lim</loc>
+      <loc>http://localhost:4000/jenn-lim</loc>
       
         <lastmod>2014-08-26T00:00:00-04:00</lastmod>
       
@@ -288,7 +333,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/allan-branch</loc>
+      <loc>http://localhost:4000/allan-branch</loc>
       
         <lastmod>2014-08-19T00:00:00-04:00</lastmod>
       
@@ -303,7 +348,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/nicole-fenton</loc>
+      <loc>http://localhost:4000/nicole-fenton</loc>
       
         <lastmod>2014-08-13T00:00:00-04:00</lastmod>
       
@@ -318,7 +363,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/scott-stratten</loc>
+      <loc>http://localhost:4000/scott-stratten</loc>
       
         <lastmod>2014-08-08T00:00:00-04:00</lastmod>
       
@@ -333,7 +378,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/valerie-coulton</loc>
+      <loc>http://localhost:4000/valerie-coulton</loc>
       
         <lastmod>2014-07-30T00:00:00-04:00</lastmod>
       
@@ -348,7 +393,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/derek-sivers</loc>
+      <loc>http://localhost:4000/derek-sivers</loc>
       
         <lastmod>2014-03-11T00:00:00-04:00</lastmod>
       
@@ -363,7 +408,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/rena-tom</loc>
+      <loc>http://localhost:4000/rena-tom</loc>
       
         <lastmod>2014-03-07T00:00:00-05:00</lastmod>
       
@@ -378,7 +423,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/brad-frost</loc>
+      <loc>http://localhost:4000/brad-frost</loc>
       
         <lastmod>2014-03-03T00:00:00-05:00</lastmod>
       
@@ -393,7 +438,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/maria-popova</loc>
+      <loc>http://localhost:4000/maria-popova</loc>
       
         <lastmod>2014-03-01T00:00:00-05:00</lastmod>
       
@@ -408,7 +453,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/clayton-christensen</loc>
+      <loc>http://localhost:4000/clayton-christensen</loc>
       
         <lastmod>2014-02-25T00:00:00-05:00</lastmod>
       
@@ -423,7 +468,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/ashley-verrill</loc>
+      <loc>http://localhost:4000/ashley-verrill</loc>
       
         <lastmod>2014-02-23T00:00:00-05:00</lastmod>
       
@@ -438,7 +483,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/jason-fried</loc>
+      <loc>http://localhost:4000/jason-fried</loc>
       
         <lastmod>2014-02-21T00:00:00-05:00</lastmod>
       
@@ -453,7 +498,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/tina-roth-eisenberg</loc>
+      <loc>http://localhost:4000/tina-roth-eisenberg</loc>
       
         <lastmod>2014-02-15T00:00:00-05:00</lastmod>
       
@@ -468,7 +513,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/peter-coughter</loc>
+      <loc>http://localhost:4000/peter-coughter</loc>
       
         <lastmod>2014-02-11T00:00:00-05:00</lastmod>
       
@@ -483,7 +528,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/debbie-millman</loc>
+      <loc>http://localhost:4000/debbie-millman</loc>
       
         <lastmod>2014-02-09T00:00:00-05:00</lastmod>
       
@@ -498,7 +543,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/ezra-firestone</loc>
+      <loc>http://localhost:4000/ezra-firestone</loc>
       
         <lastmod>2014-02-05T00:00:00-05:00</lastmod>
       
@@ -513,7 +558,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/jessica-hische</loc>
+      <loc>http://localhost:4000/jessica-hische</loc>
       
         <lastmod>2014-02-01T00:00:00-05:00</lastmod>
       
@@ -528,7 +573,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/stanley-hainsworth</loc>
+      <loc>http://localhost:4000/stanley-hainsworth</loc>
       
         <lastmod>2014-01-29T00:00:00-05:00</lastmod>
       
@@ -543,7 +588,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/kathy-sierra</loc>
+      <loc>http://localhost:4000/kathy-sierra</loc>
       
         <lastmod>2014-01-25T00:00:00-05:00</lastmod>
       
@@ -558,7 +603,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/steve-jobs</loc>
+      <loc>http://localhost:4000/steve-jobs</loc>
       
         <lastmod>2014-01-21T00:00:00-05:00</lastmod>
       
@@ -573,7 +618,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/amy-hoy</loc>
+      <loc>http://localhost:4000/amy-hoy</loc>
       
         <lastmod>2014-01-11T00:00:00-05:00</lastmod>
       
@@ -588,7 +633,7 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/gary-vee</loc>
+      <loc>http://localhost:4000/gary-vee</loc>
       
         <lastmod>2014-01-09T00:00:00-05:00</lastmod>
       
@@ -604,24 +649,9 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/404</loc>
+      <loc>http://localhost:4000/404</loc>
       
-        <lastmod>2016-07-21T12:45:53-04:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://people.hotdogsandeggs.com/feed.xml</loc>
-      
-        <lastmod>2016-07-21T12:45:53-04:00</lastmod>
+        <lastmod>2017-01-07T10:34:31-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -634,9 +664,24 @@
   
     
     <url>
-      <loc>https://people.hotdogsandeggs.com/</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2016-07-21T12:45:53-04:00</lastmod>
+        <lastmod>2017-01-07T10:34:31-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2017-01-07T10:34:31-05:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
