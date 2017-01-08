@@ -7,8 +7,10 @@ layout: default
   <div class="ten columns offset by-one">
   <h1 style="text-align: center">You can see a lot just by listening</h1>
   <p class="blog-text">Transcribed advice from real people</p>. 
+  </div>
 
   <hr>
+    <div class="six columns offset by-three">
 {% for post in site.posts %}
 
   <ul style="list-style: none; text-align: center;">
@@ -16,7 +18,7 @@ layout: default
       <div>
         <span class="people-title">{{ post.title }}</span>
         </br>
-            <a href="{{ post.url }}"><span>{{ post.preview }}</span></a>
+           <span class="simon"> <a href="{{ post.url }}">{{ post.preview }}</span></a>
       </div>
   </li>
   <hr>

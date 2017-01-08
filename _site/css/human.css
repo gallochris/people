@@ -25,6 +25,18 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
      border-bottom: 1px solid #56a0d3;
      color: inherit;
  }
+
+.simon {
+    font-weight: bolder;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.simon a { 
+    border-bottom: 1px solid #56a0d3;
+     color: inherit;
+ }
 nav ul {
     list-style:none;
 }
@@ -254,9 +266,9 @@ body {
     box-sizing:border-box;
     -webkit-font-smoothing:antialiased;
     font-smoothing:antialiased;
-    background-color:#fff;
     color:#404040;
-    font-family: Georgia,"Times New Roman",Times,serif;
+    font-family: "Roboto Mono", monospace, serif;
+    background-color: #EBEFF3;
     font-size:1rem;
     line-height: normal;
     position:relative;
@@ -322,13 +334,11 @@ hr {
 }
 
 h1 {
-    font-family:times,Times New Roman,times-roman,georgia,serif;
+    font-family: "Roboto Mono", monospace, serif;
     color:#000;
     margin:0;
     padding:0 0 6px;
-    font-size:51px;
-    line-height:44px;
-    letter-spacing:-2px;
+    font-size:36px;
     font-weight:700
 }
 
@@ -343,8 +353,8 @@ h3 {
 }
 
 p {
-    font-size:19px;
-    line-height: 29px;
+    font-size:14px;
+    line-height: 24px;
     padding-bottom:1em
 }
 
@@ -353,13 +363,12 @@ p {
 }
 
 li {
-    margin-left:18px
+    margin-left:18px;
 }
 
 @media all and (max-width: 580px) {
 h1 {
     font-size:32px;
-    line-height:25px
 }
 
 .the-text {
@@ -371,7 +380,6 @@ h1 {
 @media all and (max-width: 400px) {
 h1 {
     font-size:28px;
-    line-height:21px
 }
 
 .the-text {
@@ -660,7 +668,7 @@ nav a.active {
 }
 
 .about p {
-    font-size:18px
+    font-size:16px
 }
 
 @media all and (min-width: 580px) {
