@@ -579,9 +579,8 @@ nav a.active {
 
 .logo {
     display:inline-block;
-    width:160px;
+    width:70px;
     margin-left:2em;
-    margin-top:-1em;
 }
 
 .navigation {
@@ -605,7 +604,7 @@ nav a.active {
 .logo {
     display:block;
     float:left;
-    width:96px;
+    width:46px;
     margin-left:6px
 }
 
@@ -638,6 +637,11 @@ nav a.active {
 .footer-logo {
     margin:3em auto 2em;
     width:160px
+}
+
+.footer img {
+    max-width: 50%;
+    margin-left: 1.5em;
 }
 
 @media all and (max-width: 848px) {
@@ -681,8 +685,9 @@ nav a.active {
 .logo {
     display:block;
     float:left;
-    width:96px;
-    margin-left:6px
+    width:36px;
+    margin-left:6px;
+    margin-top: -6px;
 }
 
 .navigation-links a {
