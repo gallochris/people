@@ -7,7 +7,7 @@ slug: nassim-nicholas-taleb
 ---
 *[Nassim Nicholas Taleb](https://medium.com/@nntaleb) gives a short introduction to the idea of [antifragility](https://youtu.be/4vbk_2xE9zc). This concept is covered in length in Taleb's book, [Antifragile Thingss That Gain From Disorder](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680). It's part of a series of books from Taleb. The others are [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1493754906&sr=1-1&keywords=fooled+by+randomness), [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?s=books&ie=UTF8&qid=1493754924&sr=1-1&keywords=black+swan), and [The Bed of Procrustes](https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms/dp/0812982401/ref=sr_1_1?s=books&ie=UTF8&qid=1493754940&sr=1-1&keywords=The+Bed+of+Procrustes).*
 
-*This book and interview are difficult to understand. It's quite the idea and concept, but Taleb knows that too. I've found a couple great summaries here that can help: [notes from Nat Alison](https://www.nateliason.com/lessons/antifragile/) and [four minute book notes](http://fourminutebooks.com/antifragile-summary/).*
+*This book and interview are difficult to understand. It's quite the idea and concept, but Taleb knows that too. I've found a couple great summaries here that can help: [Max Mednik's notes](http://www.maxmednik.com/home/notes-on-antifragile-by-nassim-nicholas-taleb), [notes from Nat Alison](https://www.nateliason.com/lessons/antifragile/) and [four minute book notes](http://fourminutebooks.com/antifragile-summary/).*
 
 
 
