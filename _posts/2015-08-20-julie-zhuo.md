@@ -4,6 +4,7 @@ title: Julie Zhuo
 preview: You know you have something valuable when a lot of people repeatedly come back to it.
 link: Design Value
 slug: julie-zhuo
+categories: design   
 ---
 
 *[Julie Zhuo](https://twitter.com/joulee) chats with [Bryn Jackson](https://twitter.com/uberbryn) and [Brian Lovin](https://twitter.com/brian_lovin) of the [Design Details](http://spec.fm/show/design-details) podcast. Julie shares her path from being Facebook's first intern to leading design on a product that is used by billions of people.* 

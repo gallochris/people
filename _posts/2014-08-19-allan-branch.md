@@ -3,6 +3,7 @@ layout: post
 title: Allan Branch
 preview: There is no such thing as customer loyalty. Your customers will not be loyal. Friends are loyal. 
 link:  Old School Business
+categories: business 
 ---
 
 *This is a presentation from [Allan Branch](https://twitter.com/allanbranch). Allan is the co-founder of [Less Accounting](https://lessaccounting.com/). He shares his story and the family businesses that influenced him along the way.* 

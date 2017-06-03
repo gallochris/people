@@ -3,6 +3,7 @@ layout: post
 title: Clayton Christensen
 preview: I think a lot of times what we say we cannot do is actually something that we can do. 
 link: Measuring your Life  
+categories: [business, philosophy]   
 ---
 
 *This is a short excerpt from a conversation between Clayton Christensen and Tom Ashbrook on the On Point NPR radio show. Christensen is the co-author of [How to Measure Your Life](http://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419), a book that uses business and real-life examples to teach you lessons. Sandwiched between religious and political sidebars, there is thought-provoking conversation as Christensen answers questions from the audience. Listen to the [full conversation](http://onpoint.wbur.org/2012/05/22/clay-christensen) here.*

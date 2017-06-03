@@ -3,6 +3,7 @@ layout: post
 title: Bob Moesta
 preview: Even though choice is important, too much choice is actually paralyzing. 
 link: Jobs-to-be-Done  
+categories: business  
 ---
 
 *[Bob Moesta](https://twitter.com/bmoesta) is the "Milkshake Man." He's a designer, engineer, and businessman. He's known for the [Jobs-to-be-Done approach](http://hbswk.hbs.edu/item/6496.html) to business. Bob is who Clayton Christensen calls for advice on this idea.* 

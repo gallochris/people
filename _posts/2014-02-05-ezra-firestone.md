@@ -3,6 +3,7 @@ layout: post
 title: Ezra Firestone
 preview: Marketing is talking to people about experiences they are having. 
 link: Messaging and Marketing  
+categories: business
 ---
 
 *The following is an excerpt from the [eCommerceFuel](http://www.ecommercefuel.com/) podcast with Andrew Youderian and Ezra Firestone. Ezra shares his unique story from poker player turned entrepreneur, and how to market a product with messaging. Listen to the full [interview here](http://www.ecommercefuel.com/blending-message-product-ezra-firestone/).*

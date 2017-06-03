@@ -4,6 +4,7 @@ title: Saya Hillman
 preview: Nike the bejesus out of life. And it will work out. 
 link: Find Your Superpowers
 slug: saya-hillman
+categories: business   
 ---
 
 *[Saya Hillman](https://twitter.com/sayahillman). All I can say is I'm a fan. This is one of the first episodes of [David Kadavy's](https://twitter.com/kadavy) fantastic new podcast, [Love Your Work](http://kadavy.net/blog/archive/podcast/). Saya shares how she started her [own company](https://macncheeseproductions.com/) after being fired, how she defines her own success, and how to find your own superpowers.*

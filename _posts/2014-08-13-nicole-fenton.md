@@ -3,6 +3,7 @@ layout: post
 title: Nicole Fenton
 preview: Be you. Show your human side. That's what people want to see and identify with. 
 link: Nicely Said   
+categories: [design, business]   
 ---
 
 *[Nicole Fenton](http://nicolefenton.com) is a guest on the [Happy Monday Podcast](http://www.happymondaypodcast.com/) with [Josh Long](https://twitter.com/joshlong) and [Sarah Parmenter](https://twitter.com/swazzy). Nicole designs with words. She is excellent communicator working with companies from Apple to Facebook. The trio talks her book, [Nicely Said](http://www.nicelysaid.co/), co-authored with [Kate Kiefer Lee](http://katekieferlee.com/) and other philosophies behind writing. Listen to the [full conversation here](http://www.happymondaypodcast.com/episodes/3485-episode-74-nicole-fenton).* 

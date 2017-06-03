@@ -4,6 +4,7 @@ title: Barbara Oakley
 preview: If you study, then sleep, you actually wake up smarter. 
 link: Learning to Learn
 slug: barbara-oakley
+categories: philosophy   
 ---
 *Jacob Taylor asks Barbara Oakley [5 Good Questions](https://www.youtube.com/watch?v=YKa7MCfUpg8). Barbara has written several books on psychology and learning. I was more interested in some concepts from her book, [A Mind for Numbers](http://barbaraoakley.com/books/a-mind-for-numbers/).*
 

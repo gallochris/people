@@ -3,6 +3,7 @@ layout: post
 title: Jason Fried
 preview: Find those things that are never going to change. And pour everything you have into those things. 
 link: Sharing Advice from Jeff Bezos  
+categories: [business, philosophy]   
 ---
 
 *The following is an excerpt from Chicago Founders' Stories. Jason Fried shares the the story behind 37 Signals, Basecamp, and working with Jeff Bezos. Thanks to [Pat Ryan](https://twitter.com/PatRyanChicago) and [builtinchicago.org](http://www.builtinchicago.org/). Watch the entire [interview here](http://vimeo.com/88749951). The transcript starts at 1:18:30.* 

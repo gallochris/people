@@ -3,6 +3,7 @@ layout: post
 title: Debbie Millman
 preview: Make what you need to do to be happy. Even if other people think it's crap.  
 link: Making your own happiness 
+categories: design  
 ---
 
 *The following is an excerpt from a conversation between [Debbie Millman](http://debbiemillman.com/) and Jonathan Fields for the [Good Life Project](http://www.goodlifeproject.com/). Millman shares her career path and wisdom on how to find purpose in your life. Watch and listen to the [full episode here](http://www.youtube.com/watch?v=zwGLx7l1Ybc).*

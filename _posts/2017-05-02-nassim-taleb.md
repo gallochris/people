@@ -4,6 +4,7 @@ title: Nassim Nicholas Taleb
 preview: What is antifragile will have more upside than downside. 
 link: Antifragile
 slug: nassim-nicholas-taleb
+categories: philosophy
 ---
 *[Nassim Nicholas Taleb](https://medium.com/@nntaleb) gives a short introduction to the idea of [antifragility](https://youtu.be/4vbk_2xE9zc). This concept is covered in length in Taleb's book, [Antifragile Thingss That Gain From Disorder](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680). It's part of a series of books from Taleb. The others are [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?s=books&ie=UTF8&qid=1493754906&sr=1-1&keywords=fooled+by+randomness), [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=sr_1_1?s=books&ie=UTF8&qid=1493754924&sr=1-1&keywords=black+swan), and [The Bed of Procrustes](https://www.amazon.com/Bed-Procrustes-Philosophical-Practical-Aphorisms/dp/0812982401/ref=sr_1_1?s=books&ie=UTF8&qid=1493754940&sr=1-1&keywords=The+Bed+of+Procrustes).*
 

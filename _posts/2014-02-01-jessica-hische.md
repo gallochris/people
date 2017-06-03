@@ -2,7 +2,8 @@
 layout: post
 title: Jessica Hische
 preview: You learn the tools you need to know to make the things you want to make. 
-link: Learning the tools  
+link: Learning the tools 
+categories: design  
 ---
 
 *This is a Creative Mornings talk with [Jessica Hische](http://jessicahische.is/awesome) in Vancouver. Hische delivers about a 10 minute rant sans slides that is amazing. The majority of the excerpt is in the beginning, but you hang on for a great conversation about type. Watch and listen to the [full video here](http://vimeo.com/44045435).* 

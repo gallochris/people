@@ -4,6 +4,7 @@ title: William Ury
 preview: Because once you take responsibility, you can change. 
 link: Start with Yourself 
 slug: william-ury
+categories: philosophy  
 ---
 
 *This is a conversation between William Ury and Simon Sinek. The two discuss Ury's new book, [Getting to Yes with Yourself](http://www.williamury.com/books/getting-to-yes-with-yourself/), and other negotiation tips.* 

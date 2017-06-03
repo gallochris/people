@@ -4,6 +4,7 @@ title: Jessica Lawrence
 preview: Being able to pause is essential for creating the space needed in leadership.  
 link: Pause & Listen 
 slug: jessica-lawrence
+categories: philosophy   
 ---
 *Jessica Lawrence shares a story about leadership. From high school to the Girl Scouts of the USA to NY Tech Meetup, Jessica connects the dots about what is needed to be a leader. I was directed to this video by [Jeff Vincent](https://twitter.com/jeffvincent). Check out his newsletter and subscribe [here](http://eepurl.com/UpDZz).*
 

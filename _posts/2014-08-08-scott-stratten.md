@@ -3,6 +3,7 @@ layout: post
 title: Scott Stratten
 preview: When it comes to creativity, when you're honest, when you're raw, you polarize.
 link: Accidental Creative   
+categories: business
 ---
 
 *This is a conversation between [Scott Stratten](https://twitter.com/unmarketing) and [Todd Henry](http://www.toddhenry.com/) on the [Accidental Creative podcast](http://www.accidentalcreative.com/). The two rant and discuss how to show empathy in marketing and his book [QR Codes Kill Kittens](http://www.unmarketing.com/about/unbooktour-dates/). Listen to the [full conversation here](http://www.accidentalcreative.com/podcasts/ac/ac-podcast-scott-stratten-on-unmarketing/).* 

@@ -2,7 +2,8 @@
 layout: post
 title: Ginny Redish 
 preview: It's about hearing the other person in your head as you're writing. 
-link: Write Like a Human  
+link: Write Like a Human 
+categories: design 
 ---
 
 *Ginny Redish is the author of [Letting Go of the Words: Writing Web Content that Works](http://www.amazon.com/Letting-Words-Second-Edition-Technologies/dp/0123859301/ref=dp_ob_title_bk). She is a pioneer in how to communicate on the web. Ginny has helped companies like IBM communicate with customers and teaches people why content is conversation.*

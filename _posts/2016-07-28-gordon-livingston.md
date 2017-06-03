@@ -4,6 +4,7 @@ title: Gordon Livingston
 preview: To be happy you need something to do, someone to love, & something to look forward to. 
 link: Too Soon Old, Too Late Smart
 slug: gordon-livingston
+categories: philosophy 
 ---
 
 *Gordon Livingston was a psychiatrist and author who wrote several books on being human. This transcription is a conversation related to his book, [Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now](https://www.amazon.com/Too-Soon-Old-Late-Smart/dp/1569243735). It's hosted by Dan Rodricks on WYPR.* 

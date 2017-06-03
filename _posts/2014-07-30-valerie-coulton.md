@@ -3,6 +3,7 @@ layout: post
 title: Valerie Coulton
 preview: It's about having service at the heart of what you're doing.
 link: Servant Leadership   
+categories: business  
 ---
 
 *This is a conversation between [Alistair Croll](http://tiltthewindmill.com/about-me/) and [Valerie Coulton](https://twitter.com/coultonv) via [Tilt the Windmill](http://tiltthewindmill.com/about/). Valerie is an  Innovation Catalyst at [Schibsted Classified Media](http://www.schibsted.com/). She tells her story of moving to Barcelona and how her background in customer service has helped lead change in organizations. The excerpt is focused on the first 20 minutes, but hang on for more talk about disruption and lean analytics. Check out the [full audio here](http://tiltthewindmill.com/innovation-culture-and-design-valerie-coulton/).* 

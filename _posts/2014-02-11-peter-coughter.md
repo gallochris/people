@@ -2,7 +2,8 @@
 layout: post
 title: Peter Coughter
 preview: Make it human. And simple. That doesn't mean dumb. It means simple.
-link: How to Pitch   
+link: How to Pitch 
+categories: business     
 ---
 
 *This is a conversation between Peter Coughter and Mitch Joel for the [Six Pixels of Separation Podcast](http://www.twistimage.com/podcast/). Coughter is the author of [The Art of the Pitch](http://www.amazon.com/The-Art-Pitch-Persuasion-Presentation/dp/0230120512), a professor at the VCU Brandcenter, and an advertising consultant. Check out an excerpt below, and listen to the [full talk here](http://www.twistimage.com/podcast/archives/spos-376---better-pitching-principles-with-peter-coughter/).* 

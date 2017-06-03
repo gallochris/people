@@ -2,7 +2,8 @@
 layout: post
 title: Ashley Verrill
 preview: The support homepage for customers today is Google
-link: Future of Customer Service   
+link: Future of Customer Service  
+categories: business   
 ---
 
 

@@ -2,7 +2,8 @@
 layout: post
 title: Steve Jobs
 preview: We weren't trying to start a company, we were trying to get a computer. 
-link: Predicting the future in 1997   
+link: Predicting the future in 1997  
+categories: [business, design] 
 ---
 
 *The following is an excerpt from the 1997 Apple Worldwide Developers Conference. An hour long Q & A, it includes nuggets of brilliance that still are true 17 years later. Special thanks to [mactechlab](https://www.youtube.com/user/mactechlab) for posting it to YouTube, and to [Semil](https://twitter.com/semil/status/386650847268331520) for sharing the video. Watch the [full talk here](http://youtu.be/3LEXae1j6EY).* 

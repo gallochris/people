@@ -4,6 +4,7 @@ title: Omar Zenhom
 preview: No matter how good we become, we should always want to be better. 
 link: Six Thinking Hats
 slug: omar-zenhom
+categories: philosophy
 ---
 
 *Omar Zenhom shares a quick review of Edward de Bono's book, [Six Thinking Hats](http://www.amazon.com/Six-Thinking-Hats-Edward-Bono/dp/0316178314), on the [$100 MBA podcast](http://100mba.net/show/). The framework presented by de Bono is practical and useful when making decisions.*

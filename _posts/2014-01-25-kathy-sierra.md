@@ -2,7 +2,8 @@
 layout: post
 title: Kathy Sierra
 preview: I'm not passionate about what you do. I'm passionate about what I do. It's your job to enable that. 
-link: Kicking Ass  
+link: Kicking Ass 
+categories: [business, design]  
 ---
 
 *The following is an excerpt from 2010 Gov 2.0 Expo with Kathy Sierra. She has given this talk several times and spread the message on her [blog](http://headrush.typepad.com/). Special thanks to [O'Reilly Media](https://www.youtube.com/user/OreillyMedia) for hosting the video. Watch the [full talk here](https://www.youtube.com/watch?v=aM55NiXSOPs).* 

@@ -2,7 +2,8 @@
 layout: post
 title: Tina Roth Eisenberg
 preview: I feel like we all owe it to each other to get to that point where we are happy in our life.
-link: Don't Complain, Build   
+link: Don't Complain, Build  
+categories: [design, business]    
 ---
 
 *The following is an excerpt from a 2-part series on mentor lessons with [Tina Roth Eisenberg](http://www.swiss-miss.com/about/hi-i-am-tina). Tina shares tips to success for Shopify's 2013 Build a Business Competition. Special thanks to [Shopify](http://www.shopify.com/) for hosting the video. Watch [part 1](https://www.youtube.com/watch?v=IrhktR0YfCw) and [part 2](https://www.youtube.com/watch?v=DKFsf0PyoTg).*

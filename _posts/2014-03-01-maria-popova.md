@@ -3,6 +3,7 @@ layout: post
 title: Maria Popova
 preview: Our biggest fear, as humans, is that we don't matter. 
 link: Audience of One  
+categories: philosophy   
 ---
 
 *This is a conversation from the Employee of the Month podcast. [Catie Lazarus](https://twitter.com/catielazarus) and Maria Popova talk through life and learning. Popova curates an amazing blog called [Brain Pickings](http://www.brainpickings.org/) and runs a discovery engine called [Explore](http://explore.noodle.org/). It's impossible not to find inspiration in her work and this talk. Listen to the full [45 minute conversation here](https://soundcloud.com/employeeofthemonthshow/popova-maria ) and check out excerpts below.* 

@@ -4,6 +4,7 @@ title: Shep Gordon
 preview: Contracts make lawsuits. Handshakes make friends. 
 link: Supermensch
 slug: shep-gordon
+categories: music   
 ---
 
 *Shep Gordon joins the [Art of Charm podcast](http://theartofcharm.com/podcast-episodes/shep-gordon-supermensch-maui-episode-544/). Shep discusses life lessons from his book, [They Call Me Supermensch](https://www.amazon.com/They-Call-Supermensch-Backstage-Rock-2019n-2019Roll-ebook/dp/B00MMFN8QY). If you haven't seen the documentary, [Supermensch](https://dvd.netflix.com/Movie/Supermensch-The-Legend-of-Shep-Gordon/70292993), you're missing out. It's full of fantastic stories and it's incredibly entertaining.*

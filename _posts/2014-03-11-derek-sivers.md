@@ -3,6 +3,7 @@ layout: post
 title: Derek Sivers
 preview: The people you meet are going to be the ones that lift you up to success. 
 link: Driven by Freedom  
+categories: [business, philosophy]   
 ---
 
 *This is a conversation between [Bob Baker](http://www.bob-baker.com/) and [Derek Sivers](http://sivers.org/) on [The Creative Entrepreneur podcast](https://itunes.apple.com/us/podcast/creative-entrepreneur-podcast/id721321813?mt=2). Derek shares his background from circus ringleader to musician to million-dollar business owner at CD Baby to creating a book publishing company. You can learn a lot from his perspective and his book [Anything You Want](http://sivers.org/a). Check out an excerpt below and watch or listen to the [full conversation here](https://www.youtube.com/watch?v=yB-lXs4dEOE).*

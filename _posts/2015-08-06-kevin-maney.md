@@ -4,6 +4,7 @@ title: Kevin Maney
 preview: We're going throug trade-offs between the quality of the experience and the ease of getting it. 
 link: Trade-Off
 slug: kevin-maney
+categories: business   
 ---
 
 *This is a lecture [Kevin Maney](https://twitter.com/kmaney) delivered at the Kenan-Flager Business School at UNC-Chapel Hill in 2009. Kevin talks through the trade offs we constantly make between fidelity and convenience. If you want more on this topic, check out his book [Trade-Off](http://www.amazon.com/Trade-Off-Some-Things-Catch-Others/dp/0385525958/?tag=mmr-support-20).*

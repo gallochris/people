@@ -4,6 +4,7 @@ title: Karen Dillon
 preview: You can innovate in 100 ways that have nothing to do with a keyboard. 
 link: Innovate Without a Keyboard
 slug: karen-dillon
+categories: business  
 ---
 
 *Karen Dillon talks [jobs-to-be-done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/?gclid=CJPz7fSm2M8CFUckgQodd-ACtw) at the [Stern Strategy Group](http://sternspeakers.com/speakers/karen-dillon/). Karen has co-authored a couple books, [How to Measure Your Life](https://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419/ref=sr_1_1?s=books&ie=UTF8&qid=1476306415&sr=1-1&keywords=how+to+measure+your+life) and [Competing Against Luck: The Story of Innovation and Customer Choice](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062565230), with Clayton Christensen and others.*

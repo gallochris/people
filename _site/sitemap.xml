@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>http://localhost:4000/nassim-nicholas-taleb</loc>
+      
+        <lastmod>2017-05-02T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/barbara-oakley</loc>
+      
+        <lastmod>2017-04-11T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/shep-gordon</loc>
       
         <lastmod>2016-12-05T00:00:00-05:00</lastmod>
@@ -651,7 +681,37 @@
     <url>
       <loc>http://localhost:4000/404</loc>
       
-        <lastmod>2017-01-08T10:51:03-05:00</lastmod>
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/business</loc>
+      
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/design</loc>
+      
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -666,7 +726,7 @@
     <url>
       <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2017-01-08T10:51:03-05:00</lastmod>
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -681,7 +741,37 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2017-01-08T10:51:03-05:00</lastmod>
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/music</loc>
+      
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/philosophy</loc>
+      
+        <lastmod>2017-06-03T11:09:13-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

@@ -4,6 +4,7 @@ title: Manoj Bhargava
 preview: Business is really not rocket science. It's just do useful stuff. And avoid useless. 
 link: Common Sense
 slug: manoj-bhargava
+categories: business 
 ---
 
 *Take a half-hour and listen to [this talk](https://www.youtube.com/watch?v=x46-XiMOoJE) from [Manoj Bhargava](https://twitter.com/Manoj_Bhargava). Manoj is founder of 5-Hour Energy, a philanthropist, and full of wisdom. The story behind the product is fascinating and Manoj's common sense will smack your right across the face.*

@@ -3,6 +3,7 @@ layout: post
 title: Kevin Kelly
 preview: Success is being the most you that you could possibly be.
 link:  On the Tim Ferriss Show 
+categories: [business, philosophy]   
 ---
 
 *Here's a conversation between Tim Ferriss and [Kevin Kelly](http://kk.org/) on the [Tim Ferriss Show](http://fourhourworkweek.com/category/the-tim-ferriss-show/). A college dropout, Kevin shares his story of living overseas, doing LSD at 50 years old, and what he's learned along the way. Kevin is the Senior Maverick at [Wired Magazine](http://www.wired.com/) and known for other projects like [Cool Tools](http://kk.org/cooltools/).* 

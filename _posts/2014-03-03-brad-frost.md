@@ -3,6 +3,7 @@ layout: post
 title: Brad Frost
 preview: It's not about what you do, it's about what you enable other people to do. 
 link: Creative Exhaust  
+categories: design   
 ---
 
 *The following is a TEDx talk with Brad Frost. The web designer, writer, and speaker delivers a perspective about  why you should share what you create across the web. You should check out [his blog](http://bradfrostweb.com/blog/) and his [Death to Bullshit](http://bradfrostweb.com/blog/post/death-to-bullshit-at-creative-mornings/) talk about craft. Check out the full [TEDx video here](http://www.youtube.com/watch?v=7rW9vTrN6OU).* 

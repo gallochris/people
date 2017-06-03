@@ -4,6 +4,7 @@ title: Miki Agrawal
 preview: If you starting by leading with how can I help you versus how can you help me, doors will open. 
 link: Do Cool Sh*t
 slug: miki-agrawal
+categories: business  
 ---
 
 *[Miki Agrawal](https://twitter.com/twinmiki) wrote the book, [Do Cool Sh*t](http://www.amazon.com/Do-Cool-Sh-Business-Happily/dp/0062366858/ref=sr_1_1?s=books&ie=UTF8&qid=1428968871&sr=1-1&keywords=do+cool+sh+t). This is a short transcription of jam-packed advice on starting a business.*

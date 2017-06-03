@@ -4,6 +4,7 @@ title: Merlin Mann
 preview: It's hard to know, what you'll need to know, in order to know, what you'll need to know. 
 link: It Pays to Stay Curious
 slug: merlin-mann
+categories: [design, business, philosophy]   
 ---
 
 *[Merlin Mann](https://twitter.com/hotdogsladies) shares some wisdom in this talk delivered at the E4E Developer Conference in 2014. It's inspiring, funny, honest, damn good advice on how to get better at whatever you do. Below are excerpts, but the [entire talk](https://www.youtube.com/watch?v=zR6e-mnvhv8) is worth a watch and listen.*

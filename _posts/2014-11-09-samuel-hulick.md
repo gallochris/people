@@ -2,7 +2,8 @@
 layout: post
 title: Samuel Hulick
 preview: It's about what your product lets people do.  
-link: User Onboarding    
+link: User Onboarding  
+categories: [design, business]     
 ---
 
 *This is conversation between [Samuel Hulick](https://twitter.com/SamuelHulick) and [Justin Jackson](https://twitter.com/mijustin) on [Product People TV](http://productpeople.tv/). Samuel shares how he built [User Onboarding](http://www.useronboard.com/) and what he's learned along the way. Lots of useful examples of how to treat customers like human beings. Check out the full [conversation here](http://productpeople.tv/2014/11/06/ep70-samuel/).*

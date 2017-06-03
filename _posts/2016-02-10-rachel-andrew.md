@@ -4,6 +4,7 @@ title: Rachel Andrew
 preview: Good support should be about getting people back to work with the tools they need to continue.
 link: Supporting Customers
 slug: rachel-andrew
+categories: business   
 ---
 
 *This is a [45-minute talk](https://www.youtube.com/watch?v=Z1NpuKnuDyA) from Rachel Andrew. Rachel is the co-founder of the CMS, [Perch](https://grabaperch.com/). She shares lessons learned from supporting customers and building a business.* 

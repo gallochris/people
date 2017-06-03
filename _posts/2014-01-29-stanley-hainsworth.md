@@ -2,7 +2,8 @@
 layout: post
 title: Stanley Hainsworth
 preview: Great companies read your soul and give you something you don't even know you need.
-link: Brands are People   
+link: Brands are People 
+categories: [design, philosophy]   
 ---
 
 *The following is an excerpt from a 2010 conversation between Stanley Hainsworth and [Robert Scoble](https://twitter.com/Scobleizer). Hainsworth shares his path to storytelling and his agency [Tether](http://www.tetherinc.com/home.aspx). Special thanks to Scoble and [Rackspace](https://www.youtube.com/user/building43) for hosting the video. Watch the [full conversation here](https://www.youtube.com/watch?v=ejSSLzaJplw).* 

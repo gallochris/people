@@ -3,6 +3,7 @@ layout: post
 title: Pamela Slim
 preview: The way that we get to know ourselves is in the process of creation. 
 link: Body of Work   
+categories: [design, business]   
 ---
 
 *This a conversation between [Pamela Slim](http://pamelaslim.com/) and [Sean Blanda](https://twitter.com/SeanBlanda) on the [99U podcast](http://99u.com/category/podcast). Lately, if I'm thinking about reading a certain book, I'll look for a podcast or interview with the author to learn more about it. This a perfect example.* 
