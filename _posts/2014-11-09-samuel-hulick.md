@@ -6,7 +6,7 @@ link: User Onboarding
 categories: [design, business]     
 ---
 
-*This is conversation between [Samuel Hulick](https://twitter.com/SamuelHulick) and [Justin Jackson](https://twitter.com/mijustin) on [Product People TV](http://productpeople.tv/). Samuel shares how he built [User Onboarding](http://www.useronboard.com/) and what he's learned along the way. Lots of useful examples of how to treat customers like human beings. Check out the full [conversation here](http://productpeople.tv/2014/11/06/ep70-samuel/).*
+*This is conversation between [Samuel Hulick](https://twitter.com/SamuelHulick) and [Justin Jackson](https://twitter.com/mijustin) on [Product People TV](http://productpeople.tv/). Samuel shares how he built [User Onboarding](http://www.useronboard.com/) and what he's learned along the way. Lots of useful examples of how to treat customers like human beings. Check out the full [conversation here](http://www.productpeople.tv/70).*
 
 ##How Did You Start User Onboarding 
 
@@ -105,4 +105,5 @@ And it would say, "you have no projects."
 Almost admonishing you for not having projects yet. Like I just filled out three forms, I gave you my email address and password, and I'm being scolded. This is not kicking off on the right foot. 
 
 Certainly it's not something you would say if you were standing in the websites place welcoming a new customer to your company. 
+
 *That's true.*

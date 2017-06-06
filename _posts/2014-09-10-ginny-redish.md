@@ -8,7 +8,7 @@ categories: design
 
 *Ginny Redish is the author of [Letting Go of the Words: Writing Web Content that Works](http://www.amazon.com/Letting-Words-Second-Edition-Technologies/dp/0123859301/ref=dp_ob_title_bk). She is a pioneer in how to communicate on the web. Ginny has helped companies like IBM communicate with customers and teaches people why content is conversation.*
 
-*Check out the [full conversation](http://www.stitcher.com/podcast/5by5/content-talks/e/content-talks-12-ginny-redish-31579782) with her and [Kristina Halvorson](https://twitter.com/halvorson) on the [Content Talks](http://5by5.tv/contenttalks) podcast. And find a short excerpt below.* 
+*Check out the [full conversation](http://www.stitcher.com/podcast/5by5/content-talks/e/content-talks-12-ginny-redish-31579782) with her and [Kristina Halvorson](https://twitter.com/halvorson) on the Content Talks podcast. And find a short excerpt below.* 
 
 ## Content as Conversation 
 
