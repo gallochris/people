@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nassim Nicholas Taleb
-preview: What is antifragile will have more upside than downside. 
+title: Kara Swisher
+preview: We tend to cartoonize people and not make them complex. 
 link: Analyze
 slug: kara-swisher
 categories: business
