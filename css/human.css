@@ -59,11 +59,13 @@ line-height: 2;
 
  .bmo ul { 
 list-style: none;
+text-align: center;
   }
 
   .bmo li { 
-list-style: none;
+    list-style: none;
     margin-bottom: 4rem;
+    text-align: center;
   }
 
 img { 
