@@ -9,7 +9,7 @@ categories: business
 
 *Jeff Bezos is the Amazon.com Founder & CEO. This is a short chat brought to you by the [Internet Association](https://internetassociation.org/). The association's President & CEO, Michael Beckerman, discusses business, the early days of Amazon, space, and the future.*  
 
-*It's a conversation that gets more interesting as it goes on because it's full of wisdom. Read through some bits and pieces below, and go watch the full [37-minute discussion here](https://www.youtube.com/watch?v=LqL3tyCQ1yY).
+*It's a conversation that gets more interesting as it goes on because it's full of wisdom. Read through some bits and pieces below, and go watch the full [37-minute discussion here](https://www.youtube.com/watch?v=LqL3tyCQ1yY).*
  
 ## Did you anticipate what would happen over the last 22 years at Amazon? [1:53](https://youtu.be/LqL3tyCQ1yY?t=1m53s)
 
@@ -33,7 +33,7 @@ That is something that people get confused about sometimes. What is Amazon?
 
 We do such a diverse array of things, from producing original content at Amazon Studios, to Amazon web services where we sell startups and enterprises computing infrastructure, to the things that most people know about which is our consumer offering where we deliver things in little brown boxes. 
 
-This things seem some disperate. How is it that we're doing all of them? 
+This things seem some disparate. How is it that we're doing all of them? 
 
 The common thread, and really what it is, is an approach. We have a very distinctive approach that we've been honing, thinking about, and refining for 22 years. 
 
