@@ -48,6 +48,10 @@ line-height: 2;
 
  }
 
+ .center { 
+     text-align: center; 
+   }
+
 .jangell { 
   font-weight: bold;
   text-align: center;
@@ -59,13 +63,11 @@ line-height: 2;
 
  .bmo ul { 
 list-style: none;
-text-align: center;
   }
 
   .bmo li { 
     list-style: none;
     margin-bottom: 4rem;
-    text-align: center;
   }
 
 img { 
