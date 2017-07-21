@@ -23,6 +23,7 @@ But the most difficult person is the person we look at in the mirror every morni
 It's in our own very human, very understandable tendency to react in ways that don't serve our true interests. 
 
 * * * 
+
 ## The opposite of blame [3:48](https://youtu.be/dqV6pjX_dP0?t=3m48s) 
 
 The opposite of blame is taking responsibility. 
