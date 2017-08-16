@@ -38,7 +38,6 @@ line-height: 2;
 } 
 
  .date {
-    background-color:#faf785; 
     padding: 1px 2px;
 }
 
@@ -86,4 +85,35 @@ blockquote {
 .foot { 
   font-size: 12px;
  }
+
+ .please { 
+  text-align: center;
+ }
+
+.ohyella {
+  background-color: #faf785; 
+  padding: 0.25em; 
+  border-radius: 1em 0 1em 0;
+}
+
+.readtime { 
+ color:#d38956;
+ }
+
+ .category-list { 
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+} 
+
+
+.category-list-item {
+    display: inline-block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+} 
+
+
 
