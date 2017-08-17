@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+{{ partial "tippy.html" . }}
+	<main>
+
+      <div>
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <hr>
+        <header>
+        {{.Content}}
+               {{ partial "categories.html" . }}
+</header>
+
+<div class="center">
+<h3>You're viewing <span class="readtime twentyseventeen">all</span> transcriptions:</h3>
+
+</div>
+{{ range (where .Site.Pages "Type" "post").GroupByDate "2006" }}
+    {{ range .Pages }}
+  <h2>
+      <br>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      <span class="ohyella">
+        {{ .Description }}
+      </span>
+      {{ end }}
+      </h2>
+  {{ end }}
+
+
+<hr>
+    </main>
+{{ partial "bottom.html" . }}
+{{ partial "footer.html" . }}
+
+ 

@@ -1,0 +1,15 @@
+baseURL = "https://people.hotdogsandeggs.com/"
+languageCode = "en-us"
+title = "Chris Gallo | What They Said"
+[permalinks]
+    posts = ":slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[params]
+
+    author = "Chris Gallo"
+    description = "Chris Gallo lives in Charlotte and works at Highrise, where he makes customers feel important."

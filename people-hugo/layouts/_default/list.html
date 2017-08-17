@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+{{ partial "tippy.html" . }}
+	<main>
+
+      <div>
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <hr>
+        <header>
+        {{.Content}}
+        {{ partial "title.html" . }}
+
+       {{ partial "categories.html" . }}
+</header>
+
+<div class="center">
+
+		{{if not .IsHome }}
+<h3><span class="readtime twentyseventeen"> {{ .Title }}</span></h3>
+{{ end }}
+</div>
+
+{{ .Content }}
+
+  {{ range (where .Data.Pages "Section" "!=" "") }}
+  <h2>
+      <br>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      <span class="ohyella">
+        {{ .Description }}
+      </span>
+      {{ end }}
+      </h2>
+
+
+
+
+	</main>
+
+{{ partial "bottom.html" . }}
+{{ partial "footer.html" . }}

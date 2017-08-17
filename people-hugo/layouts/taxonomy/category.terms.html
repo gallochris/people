@@ -1,0 +1,77 @@
+{{ partial "header.html" . }}
+{{ partial "tippy.html" . }}
+	<main>
+
+      <div>
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <hr>
+        <header>
+        {{.Content}}
+        {{ partial "title.html" . }}
+
+       {{ partial "categories.html" . }}
+</header>
+
+<h2 class="please">Check out the latest transcriptions in these categories:</h2>
+
+{{ range first 1 .Site.Taxonomies.categories.business }}
+
+      <h3>
+      <span class="readtime twentyseventeen">Business</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h3>
+      <span class="ohyella">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+  {{ range first 1 .Site.Taxonomies.categories.design }}
+
+      <h2>
+      <span class="readtime twentyseventeen"> Design</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h2>
+      <span class="ohyella">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+   {{ range first 1 .Site.Taxonomies.categories.music }}
+
+      <h2>
+      <span class="readtime twentyseventeen">Music</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h2>
+      <span class="ohyella">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+    {{ range first 1 .Site.Taxonomies.categories.philosophy }}
+
+      <h2>
+      <span class="readtime twentyseventeen">Philosophy</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h2>
+      <span class="ohyella">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+
+  <hr>
+
+
+    </main>
+{{ partial "bottom.html" . }}
+{{ partial "footer.html" . }}
+
+

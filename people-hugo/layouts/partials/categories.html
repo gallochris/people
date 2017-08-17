@@ -1,0 +1,13 @@
+             <span class="please">Filter transcriptions by one of the following categories:</span>
+ <ul class="category-list">
+            {{ range $name, $items := .Site.Taxonomies.categories }}
+            <li class="category-list-item">
+                {{ $url := printf "%s/%s" "categories" ($name | urlize | lower)}}
+                <a class="category-list-link" href="{{ $url | absURL }}">
+                    {{ $name | humanize  }}
+                </a>
+                <span class="category-list-count">({{ len $items }})</span>
+            </li>
+            {{ end }}
+        </ul>
+        <hr>
