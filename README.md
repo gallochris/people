@@ -1,4 +1,4 @@
-People | Hot Dogs and Eggs 
+What They Said | Hot Dogs and Eggs 
 ========================
 
 This is the source of a project for my personal website, [people.hotdogsandeggs.com](https://people.hotdogsandeggs.com).
