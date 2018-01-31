@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://people.hotdogsandeggs.com/scott-belsky/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.hotdogsandeggs.com/veronica-belmont/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://people.hotdogsandeggs.com/jeff-bezos/</loc>
     <lastmod>2017-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -256,6 +266,12 @@
   </url>
   
   <url>
+    <loc>https://people.hotdogsandeggs.com/categories/design-business/</loc>
+    <lastmod>2018-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://people.hotdogsandeggs.com/categories/music/</loc>
     <lastmod>2016-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -268,8 +284,14 @@
   </url>
   
   <url>
+    <loc>https://people.hotdogsandeggs.com/categories/philosophy-business/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://people.hotdogsandeggs.com/posts/</loc>
-    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -285,7 +307,7 @@
   
   <url>
     <loc>https://people.hotdogsandeggs.com/</loc>
-    <lastmod>2017-07-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
