@@ -5,6 +5,7 @@ slug: "jason-fried"
 type: "post"
 date: "2014-02-21"
 categories: ["business", "philosophy"]
+published: "false"
 ---
 
 *The following is an excerpt from Chicago Founders' Stories. Jason Fried shares the the story behind 37 Signals, Basecamp, and working with Jeff Bezos. Thanks to [Pat Ryan](https://twitter.com/PatRyanChicago) and [builtinchicago.org](http://www.builtinchicago.org/). Watch the entire [interview here](http://vimeo.com/88749951). The transcript starts at 1:18:30.* 
