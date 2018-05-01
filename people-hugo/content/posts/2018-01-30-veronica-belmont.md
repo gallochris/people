@@ -4,7 +4,7 @@ description: "Not all feedback is created equal."
 slug: "veronica-belmont"  
 type: "post"
 date: "2018-01-30"
-categories: ["design, business"]
+categories: ["business"]
 ---
 
 *[Veronica Belmont](http://veronicabelmont.com/) helps people understand how technology can better their lives. She is the product Manager at Disco, and involved in lots of other things across the web.* 

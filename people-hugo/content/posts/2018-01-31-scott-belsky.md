@@ -4,7 +4,7 @@ description: "I like to say a labor of love always pays off, just not how and wh
 slug: "scott-belsky"  
 type: "post"
 date: "2018-01-31"
-categories: ["philosophy, business"]
+categories: ["business"]
 ---
 
 *[Scott Belsky](http://www.scottbelsky.com/) shares some wise words on the [Tim Ferriss show](https://art19.com/shows/tim-ferriss-show/episodes/aca07cd4-ffea-4975-825e-daf00953ed27). Tim asks Scott a pair of questions, and Scott shares bad advice to avoid and good advice to follow.* 
