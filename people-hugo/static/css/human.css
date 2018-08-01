@@ -1,12 +1,12 @@
 body { 
-  font-family: Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 14px;
-  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
   padding: 1em;
   margin: 0 auto;
   max-width: 50em;
   color: #14191d; 
-  background-color: #EBEFF3;
+  background-color: rgb(235, 239, 243);
 }
 
 h1 {
@@ -23,7 +23,7 @@ h3 {
 }
 
 a { 
-    border-bottom: 3px solid #56a0d3;
+    border-bottom: 2px solid #56a0d3;
     text-decoration: none;
     color: inherit;
   }
@@ -80,7 +80,7 @@ blockquote {
  }
 
 .nope { 
-  color: #acacac;
+  color: #14191d;
  }
 
 .foot { 

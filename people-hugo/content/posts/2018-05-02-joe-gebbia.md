@@ -3,7 +3,7 @@ title: "Joe Gebbia"
 description: "Some will love it, some won't, plus who cares equals move on."
 slug: "joe-gebbia"  
 type: "post"
-date: "2018-05-01"
+date: "2018-05-02"
 categories: ["business"]
 ---
 
