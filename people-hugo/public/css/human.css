@@ -34,8 +34,8 @@ header {
 
 footer { 
 text-align: center; 
+font-size: 12px;
 line-height: 2;
-
 } 
 
  .date {
@@ -87,8 +87,9 @@ blockquote {
   font-size: 12px;
  }
 
- .please { 
-  text-align: center;
+.please { 
+ text-align: center;
+ font-size: 12px;
  }
 
 .ohyella {
